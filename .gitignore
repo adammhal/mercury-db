@@ -4,3 +4,5 @@ refresh_cookies.py
 hydra_steamrip_source.json
 check_updates.py
 clean_database.py
+add_game.py
+scrape_steamrip.py
