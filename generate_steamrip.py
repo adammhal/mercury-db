@@ -76,6 +76,14 @@ def main():
     if len(games) < 1000:
         raise RuntimeError(f"only {len(games)} games parsed, refusing to overwrite {OUTPUT}")
 
+    try:
+        with open(OUTPUT, encoding="utf-8") as f:
+            if json.load(f).get("games") == games:
+                print("no game changes, leaving file untouched", file=sys.stderr)
+                return
+    except (FileNotFoundError, json.JSONDecodeError):
+        pass
+
     data = {
         "name": "SteamRIP Index",
         "last_updated": datetime.now(timezone.utc).isoformat(timespec="seconds"),
