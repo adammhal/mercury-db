@@ -1,7 +1,18 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-03T05:16:32+00:00",
+  "last_updated": "2026-10-03T11:38:16+00:00",
   "games": [
+    {
+      "title": "FRUKT Free Download",
+      "size": "181.2 MB",
+      "uploadDate": "2026-10-03T11:08:08+00:00",
+      "url": "https://bzzhr.to/ymjh5ulz2z5e",
+      "uris": [
+        "https://bzzhr.to/ymjh5ulz2z5e"
+      ],
+      "version": "Build 25515768",
+      "provider": "SteamRIP"
+    },
     {
       "title": "ZERO PARADES: Director’s Cut Free Download (v1.1.40707)",
       "size": "11.5 GB",
@@ -157,14 +168,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Backrooms: Code Yellow Free Download (Build 25593644 + Co-op)",
+      "title": "Backrooms: Code Yellow Free Download (Build 25686600 + Co-op)",
       "size": "678.1 MB",
-      "uploadDate": "2026-09-30T19:36:43+00:00",
-      "url": "https://bzzhr.to/hd8c2k17tfie",
+      "uploadDate": "2026-10-03T10:46:58+00:00",
+      "url": "https://bzzhr.to/yomlcez60raz",
       "uris": [
-        "https://bzzhr.to/hd8c2k17tfie"
+        "https://bzzhr.to/yomlcez60raz"
       ],
-      "version": "Build 25593644",
+      "version": "Build 25686600",
       "provider": "SteamRIP"
     },
     {
@@ -593,18 +604,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Plan B: Terraform Free Download",
-      "size": "1.7 GB",
-      "uploadDate": "2026-09-24T13:19:10+00:00",
-      "url": "https://bzzhr.to/9ab4y6317n77",
-      "uris": [
-        "https://bzzhr.to/9ab4y6317n77",
-        "https://fileditchfiles.st/alpha31/23bbfe515e968140a32a/Plan.B.Terraform-SteamRIP.com.rar"
-      ],
-      "version": "Build 25501762",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "Mini Airways – ATC simulator Free Download",
       "size": "1.2 GB",
       "uploadDate": "2026-09-24T13:14:28+00:00",
@@ -930,13 +929,12 @@
     {
       "title": "Dressmaker Free Download",
       "size": "326 MB",
-      "uploadDate": "2026-09-22T02:51:52+00:00",
-      "url": "https://megadb.net/9e7d173d77f2247b",
+      "uploadDate": "2026-10-03T11:11:19+00:00",
+      "url": "https://bzzhr.to/vry4sz4patdj",
       "uris": [
-        "https://megadb.net/9e7d173d77f2247b",
-        "https://bzzhr.to/x03npgvciono"
+        "https://bzzhr.to/vry4sz4patdj"
       ],
-      "version": "Build 25436897",
+      "version": "Build 25508059",
       "provider": "SteamRIP"
     },
     {
@@ -1592,17 +1590,6 @@
         "https://bzzhr.to/bfjidanipu4l"
       ],
       "version": "Build 3483481",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Klonoa Phantasy Reverie Series Free Download",
-      "size": "7.2 GB",
-      "uploadDate": "2026-09-17T15:23:08+00:00",
-      "url": "https://bzzhr.to/s7ydwx22ofpw",
-      "uris": [
-        "https://bzzhr.to/s7ydwx22ofpw"
-      ],
-      "version": "Build 20629963",
       "provider": "SteamRIP"
     },
     {
@@ -17909,13 +17896,14 @@
     },
     {
       "title": "Plan B: Terraform Free Download (v1.0)",
-      "size": "620 MB",
-      "uploadDate": "2025-08-29T23:57:14+00:00",
-      "url": "https://megadb.net/prrg52emtmil",
+      "size": "1.7 GB",
+      "uploadDate": "2026-10-03T10:34:16+00:00",
+      "url": "https://bzzhr.to/9ab4y6317n77",
       "uris": [
-        "https://megadb.net/prrg52emtmil"
+        "https://bzzhr.to/9ab4y6317n77",
+        "https://fileditchfiles.st/alpha31/23bbfe515e968140a32a/Plan.B.Terraform-SteamRIP.com.rar"
       ],
-      "version": "v1.0",
+      "version": "Build 2550176",
       "provider": "SteamRIP"
     },
     {
@@ -24827,15 +24815,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Desktop Mate Free Download (v1.10.6)",
+      "title": "Desktop Mate Free Download",
       "size": "431 MB",
-      "uploadDate": "2026-06-04T11:41:03+00:00",
-      "url": "https://megadb.net/tgomsk2d3cl1",
+      "uploadDate": "2026-10-03T11:19:27+00:00",
+      "url": "https://bzzhr.to/j1s7ycxm4ot5",
       "uris": [
-        "https://megadb.net/tgomsk2d3cl1",
-        "https://bzzhr.to/gtj93qhx24fh"
+        "https://bzzhr.to/j1s7ycxm4ot5"
       ],
-      "version": "v1.10.6 (Build 23505516)",
+      "version": "Build 5576844",
       "provider": "SteamRIP"
     },
     {
@@ -43260,13 +43247,13 @@
     },
     {
       "title": "Klonoa Phantasy Reverie Series Free Download",
-      "size": "7 GB",
-      "uploadDate": "2024-03-11T14:04:19+00:00",
-      "url": "https://megadb.net/ug7tjkeblj9q",
+      "size": "7.2 GB",
+      "uploadDate": "2026-10-03T10:30:39+00:00",
+      "url": "https://bzzhr.to/s7ydwx22ofpw",
       "uris": [
-        "https://megadb.net/ug7tjkeblj9q"
+        "https://bzzhr.to/s7ydwx22ofpw"
       ],
-      "version": "Build 8839019",
+      "version": "Build 20629963",
       "provider": "SteamRIP"
     },
     {
@@ -47973,18 +47960,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Skater XL – The Ultimate Skateboarding Game Free Download (v1.2.2.5)",
-      "size": "4.6 GB",
-      "uploadDate": "2025-03-12T20:33:41+00:00",
-      "url": "https://megadb.net/0foejux4x2jy",
-      "uris": [
-        "https://megadb.net/0foejux4x2jy",
-        "https://bzzhr.to/c2tx8j4zodm3"
-      ],
-      "version": "v1.2.2.5",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "Old World Free Download (v1.0.78527)",
       "size": "3.8 GB",
       "uploadDate": "2025-07-11T00:10:45+00:00",
@@ -50674,18 +50649,6 @@
         "https://datanodes.to/t9ofzd7urbf1/FIST-FST-SteamRIP.com.rar"
       ],
       "version": "v1.200.002 + WINDOWS 7 FIX",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "LEGO Harry Potter: Years 1-4 Free Download",
-      "size": "5.88 GB",
-      "uploadDate": "2026-09-28T12:52:40+00:00",
-      "url": "https://megadb.net/fx9fv8k10x8s",
-      "uris": [
-        "https://megadb.net/fx9fv8k10x8s",
-        "https://bzzhr.to/wt8nupt0okrg"
-      ],
-      "version": "v2.1.1",
       "provider": "SteamRIP"
     },
     {
