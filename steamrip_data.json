@@ -1,11 +1,108 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-06T13:22:57+00:00",
+  "last_updated": "2026-10-06T22:40:39+00:00",
   "games": [
     {
-      "title": "CRYO Free Download",
+      "title": "Not For Broadcast Free Download",
+      "size": "77 GB",
+      "uploadDate": "2026-10-06T18:40:26+00:00",
+      "url": "https://gofile.io/d/GHoqJuQl",
+      "uris": [
+        "https://gofile.io/d/GHoqJuQl",
+        "https://bzzhr.to/9p7v5ieoa3n0",
+        "https://fileditchfiles.st/alpha35/c0a330a992163f0101cd/Not.For.Broadcast-SteamRIP.com.rar"
+      ],
+      "version": "Build 15932446",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Aoi Tori Free Download",
+      "size": "11 GB",
+      "uploadDate": "2026-10-06T17:26:23+00:00",
+      "url": "https://gofile.io/d/YOV4zVpR",
+      "uris": [
+        "https://gofile.io/d/YOV4zVpR",
+        "https://bzzhr.to/wqjmfvlm805p",
+        "https://fileditchfiles.st/alpha35/4fd87848a98470a6523f/Aoi.Tori-SteamRIP.com.rar"
+      ],
+      "version": "Build 14397837",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Bug Cleaners Free Download",
+      "size": "3.7 GB",
+      "uploadDate": "2026-10-06T17:04:17+00:00",
+      "url": "https://bzzhr.to/sbot7muv8z2b",
+      "uris": [
+        "https://bzzhr.to/sbot7muv8z2b",
+        "https://fileditchfiles.st/alpha35/2bcf35a7f64f039a7e71/Bug.Cleaners-SteamRIP.com.rar"
+      ],
+      "version": "Build 25699070",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Toy Shire Free Download",
+      "size": "1.4 GB",
+      "uploadDate": "2026-10-06T16:55:05+00:00",
+      "url": "https://bzzhr.to/89ql0cufjlxx",
+      "uris": [
+        "https://bzzhr.to/89ql0cufjlxx",
+        "https://fileditchfiles.st/alpha35/da46ac2812059191cccb/Toy.Shire-SteamRIP.com.rar"
+      ],
+      "version": "Build 25711236",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Please, Don’t Touch Anything Free Download",
+      "size": "170.7 MB",
+      "uploadDate": "2026-10-06T16:50:28+00:00",
+      "url": "https://bzzhr.to/zbn4gup0mlly",
+      "uris": [
+        "https://bzzhr.to/zbn4gup0mlly"
+      ],
+      "version": "Build 24615369",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Stationeers Free Download (Build 24703804 + Co-op)",
+      "size": "5.3 GB",
+      "uploadDate": "2026-10-06T16:31:39+00:00",
+      "url": "https://bzzhr.to/i22hk3yiqpw3",
+      "uris": [
+        "https://bzzhr.to/i22hk3yiqpw3",
+        "https://fileditchfiles.st/alpha35/6d986f9f258d1e4e6863/Stationeers-SteamRIP.com.rar"
+      ],
+      "version": "Build 24703804",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Gears of War: E-Day Free Download",
+      "size": "109.1 GB",
+      "uploadDate": "2026-10-06T16:31:12+00:00",
+      "url": "https://gofile.io/d/YNsrMYyW",
+      "uris": [
+        "https://gofile.io/d/YNsrMYyW",
+        "https://bzzhr.to/2qjxbekwp320"
+      ],
+      "version": "Build 25724756",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Hardspace: Shipbreaker Free Download",
+      "size": "4.1 GB",
+      "uploadDate": "2026-10-06T15:49:30+00:00",
+      "url": "https://bzzhr.to/ip2s5v25nz6s",
+      "uris": [
+        "https://bzzhr.to/ip2s5v25nz6s",
+        "https://fileditchfiles.st/alpha35/9e455be214271962d5de/Hardspace.Shipbreaker-SteamRIP.com.rar"
+      ],
+      "version": "Build 22302871",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "CRYO Free Download (Build 25210441 + Co-op)",
       "size": "9.3 GB",
-      "uploadDate": "2026-10-06T07:52:18+00:00",
+      "uploadDate": "2026-10-06T16:30:28+00:00",
       "url": "https://gofile.io/d/kbsmbj6W",
       "uris": [
         "https://gofile.io/d/kbsmbj6W",
@@ -58,18 +155,6 @@
         "https://fileditchfiles.st/alpha34/7ea8e3ab5d7b2cb4d133/Dreamspring-SteamRIP.com.rar"
       ],
       "version": "Build 25712369",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Tunnel Escape Fates Entwined Free Download",
-      "size": "1.6 GB",
-      "uploadDate": "2026-10-05T08:22:00+00:00",
-      "url": "https://bzzhr.to/m6k2vv7l63vx",
-      "uris": [
-        "https://bzzhr.to/m6k2vv7l63vx",
-        "https://fileditchfiles.st/alpha34/f91fd94589c687f3d715/Tunnel.Escape.Fates.Entwined-SteamRIP.com.rar"
-      ],
-      "version": "Build 25685713",
       "provider": "SteamRIP"
     },
     {
@@ -418,10 +503,10 @@
     {
       "title": "Backrooms: Code Yellow Free Download (Build 25686600 + Co-op)",
       "size": "678.1 MB",
-      "uploadDate": "2026-10-06T07:05:00+00:00",
-      "url": "https://bzzhr.to/0him8l9qy0fh",
+      "uploadDate": "2026-10-06T16:04:51+00:00",
+      "url": "https://bzzhr.to/81p0zu99m3qh",
       "uris": [
-        "https://bzzhr.to/0him8l9qy0fh"
+        "https://bzzhr.to/81p0zu99m3qh"
       ],
       "version": "Build 25686600",
       "provider": "SteamRIP"
@@ -1016,15 +1101,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Graveyard Keeper 2 Free Download (v1.007)",
+      "title": "Graveyard Keeper 2 Free Download (v1.009)",
       "size": "1.3 GB",
-      "uploadDate": "2026-09-30T01:04:27+00:00",
-      "url": "https://gofile.io/d/MCGQ9Fe2",
+      "uploadDate": "2026-10-06T16:16:18+00:00",
+      "url": "https://gofile.io/d/Rgn1JpFi",
       "uris": [
-        "https://gofile.io/d/MCGQ9Fe2",
-        "https://megadb.net/d4ad01afed46f08e"
+        "https://gofile.io/d/Rgn1JpFi",
+        "https://megadb.net/d595bf1fcd9d60f6"
       ],
-      "version": "v1.007",
+      "version": "v1.009",
       "provider": "SteamRIP"
     },
     {
@@ -2740,14 +2825,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Valheim Free Download (v1.0.16 + Co-op)",
+      "title": "Valheim Free Download (v1.0.17 + Co-op)",
       "size": "5.9 GB",
-      "uploadDate": "2026-10-05T07:40:01+00:00",
-      "url": "https://bzzhr.to/c7u6ncokgjjr",
+      "uploadDate": "2026-10-06T17:04:44+00:00",
+      "url": "https://bzzhr.to/l4ac2dzsl49q",
       "uris": [
-        "https://bzzhr.to/c7u6ncokgjjr"
+        "https://bzzhr.to/l4ac2dzsl49q",
+        "https://gofile.io/d/ZHGKFDEW"
       ],
-      "version": "Build 25527674",
+      "version": "v1.0.17",
       "provider": "SteamRIP"
     },
     {
@@ -7627,14 +7713,15 @@
     {
       "title": "EA SPORTS College Football 27 Free Download",
       "size": "44.4 GB",
-      "uploadDate": "2026-09-19T10:08:34+00:00",
+      "uploadDate": "2026-10-06T17:01:33+00:00",
       "url": "https://gofile.io/d/V6vy4OUP",
       "uris": [
         "https://gofile.io/d/V6vy4OUP",
         "https://bzzhr.to/oiibfgbbg4gl",
-        "https://fileditchfiles.st/alpha30/28701b54d0746665ca67/EA.SPORTS.College_Football.27-SteamRIP.com.rar"
+        "https://fileditchfiles.st/alpha30/28701b54d0746665ca67/EA.SPORTS.College_Football.27-SteamRIP.com.rar",
+        "https://bzzhr.to/awxortbae2qk"
       ],
-      "version": "v1.0.140.17622",
+      "version": "v1.0.140.62882",
       "provider": "SteamRIP"
     },
     {
@@ -17495,15 +17582,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "ENDLESS Legend 2 Free Download",
+      "title": "ENDLESS Legend 2 Free Download (v1.0.172)",
       "size": "12.2 GB",
-      "uploadDate": "2026-09-17T18:54:48+00:00",
-      "url": "https://gofile.io/d/Qr5hQtNL",
+      "uploadDate": "2026-10-06T17:11:57+00:00",
+      "url": "https://gofile.io/d/zF1p7Qtf",
       "uris": [
-        "https://gofile.io/d/Qr5hQtNL",
-        "https://bzzhr.to/zbuwlrogzfa4"
+        "https://gofile.io/d/zF1p7Qtf",
+        "https://bzzhr.to/tkccbdz6rwhj"
       ],
-      "version": "Build 25368698",
+      "version": "v1.0.172",
       "provider": "SteamRIP"
     },
     {
@@ -21030,15 +21117,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "PEAK Free Download (v2.5.a + Co-op)",
-      "size": "1.55 GB",
-      "uploadDate": "2026-09-30T01:18:52+00:00",
-      "url": "https://gofile.io/d/GvTUAIDn",
+      "title": "PEAK Free Download (v2.6.b + Co-op)",
+      "size": "1.42 GB",
+      "uploadDate": "2026-10-06T19:23:41+00:00",
+      "url": "https://gofile.io/d/8rGT8VHc",
       "uris": [
-        "https://gofile.io/d/GvTUAIDn",
-        "https://bzzhr.to/x4bpuln185hl"
+        "https://gofile.io/d/8rGT8VHc",
+        "https://bzzhr.to/wcu6rtdpy5kf"
       ],
-      "version": "v2.5.a + Co-op",
+      "version": "v2.6.b + Co-op",
       "provider": "SteamRIP"
     },
     {
@@ -32361,15 +32448,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Kingdom Come: Deliverance Free Download (v1.9.7)",
-      "size": "72 GB",
-      "uploadDate": "2026-03-02T20:07:37+00:00",
-      "url": "https://bzzhr.to/i4wsrlmnlzoe",
+      "title": "Kingdom Come: Deliverance Free Download (v1.9.8)",
+      "size": "81.1 GB",
+      "uploadDate": "2026-10-06T19:16:05+00:00",
+      "url": "https://bzzhr.to/u0zhjqnuawx5",
       "uris": [
-        "https://bzzhr.to/i4wsrlmnlzoe",
-        "https://vikingfile.com/f/JjmIye5Sih"
+        "https://bzzhr.to/u0zhjqnuawx5",
+        "https://gofile.io/d/gGVGgJ05"
       ],
-      "version": "v1.9.7",
+      "version": "v1.9.8",
       "provider": "SteamRIP"
     },
     {
