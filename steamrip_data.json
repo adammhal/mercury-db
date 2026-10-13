@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-13T00:46:07+00:00",
+  "last_updated": "2026-10-13T14:09:15+00:00",
   "games": [
     {
       "title": "Car Park Capital Free Download",
@@ -280,15 +280,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "PAPERHEAD Free Download",
-      "size": "7.1 GB",
-      "uploadDate": "2026-10-10T17:40:15+00:00",
-      "url": "https://bzzhr.to/8x7qeh6vsl2o",
+      "title": "PAPERHEAD Free Download (v48.5)",
+      "size": "6.5 GB",
+      "uploadDate": "2026-10-13T04:00:38+00:00",
+      "url": "https://bzzhr.to/0td7eeootdqc",
       "uris": [
-        "https://bzzhr.to/8x7qeh6vsl2o",
-        "https://fileditchfiles.st/alpha36/a60bbc6b3e39bad2a594/PAPERHEAD-SteamRIP.com.rar"
+        "https://bzzhr.to/0td7eeootdqc",
+        "https://fileditchfiles.st/balpha30/28e1c37b9c88fe3d6f07/PAPERHEAD-SteamRIP.com.rar"
       ],
-      "version": "Build 25829881",
+      "version": "v48.5",
       "provider": "SteamRIP"
     },
     {
@@ -1193,6 +1193,91 @@
         "https://bzzhr.to/ytiq1w6irssy"
       ],
       "version": "Build 25625037",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Prince of Persia: The Two Thrones Free Download",
+      "size": "1.3 GB",
+      "uploadDate": "2026-09-30T16:05:29+00:00",
+      "url": "https://bzzhr.to/6xt6rvmpbm6m",
+      "uris": [
+        "https://bzzhr.to/6xt6rvmpbm6m",
+        "https://fileditchfiles.st/balpha24/60684d655b2e67250be7/Prince.of.Persia-The.Two.Thrones-SteamRIP.com.rar"
+      ],
+      "version": "Build 252081",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Handler of Dragons Free Download",
+      "size": "7.2 GB",
+      "uploadDate": "2026-09-30T09:17:30+00:00",
+      "url": "https://bzzhr.to/vfbkxxv3gd36",
+      "uris": [
+        "https://bzzhr.to/vfbkxxv3gd36",
+        "https://fileditchfiles.st/alpha32/d0c27fcd581e62cbba8c/The.Handler.of.Dragons-SteamRIP.com.rar"
+      ],
+      "version": "Build 25525122",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Bell Echoes Free Download",
+      "size": "3.6 GB",
+      "uploadDate": "2026-09-29T20:22:13+00:00",
+      "url": "https://bzzhr.to/3uq5fq5rlr2l",
+      "uris": [
+        "https://bzzhr.to/3uq5fq5rlr2l",
+        "https://fileditchfiles.st/alpha32/995373cf922496f15748/The.Bell.Echoes-SteamRIP.com.rar"
+      ],
+      "version": "Build 25601994",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "XenoHaven Free Download",
+      "size": "694.3 MB",
+      "uploadDate": "2026-09-29T20:10:52+00:00",
+      "url": "https://bzzhr.to/u9bwd22ddb0s",
+      "uris": [
+        "https://bzzhr.to/u9bwd22ddb0s"
+      ],
+      "version": "Build 25316055",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Strangeland Free Download",
+      "size": "1.4 GB",
+      "uploadDate": "2026-09-29T20:03:44+00:00",
+      "url": "https://bzzhr.to/1lm1t70zfa42",
+      "uris": [
+        "https://bzzhr.to/1lm1t70zfa42",
+        "https://fileditchfiles.st/alpha32/9eb1a4f2af94b4be0308/Strangeland-SteamRIP.com.rar"
+      ],
+      "version": "Build 24350307",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Transport Fever 3 Free Download",
+      "size": "31.6 GB",
+      "uploadDate": "2026-09-29T19:50:38+00:00",
+      "url": "https://gofile.io/d/FBG5NKhF",
+      "uris": [
+        "https://gofile.io/d/FBG5NKhF",
+        "https://bzzhr.to/4pk3y3xgpqg6",
+        "https://fileditchfiles.st/balpha23/0078f47fadbbe9d28668/Transport.Fever.3-SteamRIP.com.rar"
+      ],
+      "version": "Build 25533170",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt Remastered Free Download (v5.01)",
+      "size": "69.3 GB",
+      "uploadDate": "2026-10-09T20:56:30+00:00",
+      "url": "https://bzzhr.to/dg6xl7b06aw1",
+      "uris": [
+        "https://bzzhr.to/dg6xl7b06aw1",
+        "https://fileditchfiles.st/balpha28/3236fb0f2409ff1ae666/The-Witcher-3-WH-Remastered-SteamRIP.com.rar",
+        "https://bzzhr.to/wge5xqrqagzc"
+      ],
+      "version": "v5.01 (Remastered)",
       "provider": "SteamRIP"
     },
     {
@@ -2283,90 +2368,6 @@
         "https://fileditchfiles.st/alpha30/43b2d07a303f7911a5cd/lily%27s.world.XD-SteamRIP.com.rar"
       ],
       "version": "Build 25335946",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Zompiercer Free Download",
-      "size": "12.3 GB",
-      "uploadDate": "2026-09-19T04:52:24+00:00",
-      "url": "https://gofile.io/d/QX1pTExe",
-      "uris": [
-        "https://gofile.io/d/QX1pTExe",
-        "https://bzzhr.to/ye84irws8u76",
-        "https://fileditchfiles.st/alpha30/4a2c72a79ceaeba8ca96/Zompiercer-SteamRIP.com.rar"
-      ],
-      "version": "Build 23648357",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dimhaven – The Lost Source Free Download",
-      "size": "1.3 GB",
-      "uploadDate": "2026-09-18T15:34:16+00:00",
-      "url": "https://bzzhr.to/1r2ucphvox2d",
-      "uris": [
-        "https://bzzhr.to/1r2ucphvox2d",
-        "https://fileditchfiles.st/alpha30/09a7080c7dc85e69ccfe/Dimhaven-The.Lost.Source-SteamRIP.com.rar"
-      ],
-      "version": "Build 25390316",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dune: Awakening Free Download (v1.5.3.5)",
-      "size": "36.3 GB",
-      "uploadDate": "2026-10-01T18:42:38+00:00",
-      "url": "https://bzzhr.to/3k21atylywfo",
-      "uris": [
-        "https://bzzhr.to/3k21atylywfo"
-      ],
-      "version": "v1.5.3.5.2134304",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "The Ranchers Free Download",
-      "size": "3.7 GB",
-      "uploadDate": "2026-09-20T19:53:40+00:00",
-      "url": "https://bzzhr.to/x8gauctgmz5y",
-      "uris": [
-        "https://bzzhr.to/x8gauctgmz5y",
-        "https://fileditchfiles.st/balpha20/183c048d3069a17577fd/The.Ranchers-SteamRIP.com.rar"
-      ],
-      "version": "Build 25379431",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "R.I.P. – Reincarnation Insurance Program Free Download (v1.0)",
-      "size": "8.9 GB",
-      "uploadDate": "2026-09-18T15:10:44+00:00",
-      "url": "https://gofile.io/d/1M73o9Cw",
-      "uris": [
-        "https://gofile.io/d/1M73o9Cw",
-        "https://bzzhr.to/swb4o75949v2"
-      ],
-      "version": "v1.0",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Smack Talk Free Download (Build 24958455 + Online)",
-      "size": "696 MB",
-      "uploadDate": "2026-09-18T14:55:32+00:00",
-      "url": "https://bzzhr.to/dyx8mt0ci9e6",
-      "uris": [
-        "https://bzzhr.to/dyx8mt0ci9e6"
-      ],
-      "version": "Build 24958455",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Liftoff: Micro Drones Free Download",
-      "size": "16.1 GB",
-      "uploadDate": "2026-09-18T17:24:05+00:00",
-      "url": "https://gofile.io/d/8Kg1ba6C",
-      "uris": [
-        "https://gofile.io/d/8Kg1ba6C",
-        "https://bzzhr.to/xqsf0pwfgos5",
-        "https://fileditchfiles.st/alpha30/2ea98f7ec75637947098/Liftoff.Micro.Drones-SteamRIP.com.rar"
-      ],
-      "version": "Build 25255185",
       "provider": "SteamRIP"
     },
     {
@@ -5889,6 +5890,86 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Kusan: City of Wolves Free Download",
+      "size": "1.4 GB",
+      "uploadDate": "2026-07-31T08:25:31+00:00",
+      "url": "https://bzzhr.to/aytnngjt2s4j",
+      "uris": [
+        "https://bzzhr.to/aytnngjt2s4j"
+      ],
+      "version": "Build 24414028",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Leafy Corner Free Download",
+      "size": "655 MB",
+      "uploadDate": "2026-07-31T08:20:56+00:00",
+      "url": "https://bzzhr.to/5ffwmuqs1n85",
+      "uris": [
+        "https://bzzhr.to/5ffwmuqs1n85"
+      ],
+      "version": "Build 24133222",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Sudden Strike 5 Free Download",
+      "size": "18.3 GB",
+      "uploadDate": "2026-07-30T20:50:50+00:00",
+      "url": "https://gofile.io/d/b4NQJ8",
+      "uris": [
+        "https://gofile.io/d/b4NQJ8",
+        "https://bzzhr.to/y7ab48uy9dnx"
+      ],
+      "version": "Build 24315248",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Galactic Civilizations IV Free Download",
+      "size": "28.3 GB",
+      "uploadDate": "2026-08-02T06:26:36+00:00",
+      "url": "https://gofile.io/d/M9Ta7m",
+      "uris": [
+        "https://gofile.io/d/M9Ta7m",
+        "https://bzzhr.to/tyunyj64ih96"
+      ],
+      "version": "Build 24454850",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Prince of Persia: Warrior Within Free Download",
+      "size": "3.4 GB",
+      "uploadDate": "2026-08-01T07:59:55+00:00",
+      "url": "https://bzzhr.to/ozny8skxi401",
+      "uris": [
+        "https://bzzhr.to/ozny8skxi401"
+      ],
+      "version": "v1.00.999_v2_(28549)",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Prince of Persia: The Sands of Time Free Download",
+      "size": "1.2 GB",
+      "uploadDate": "2026-07-30T18:48:21+00:00",
+      "url": "https://bzzhr.to/4mj023m5js1e",
+      "uris": [
+        "https://bzzhr.to/4mj023m5js1e"
+      ],
+      "version": "v181_(28548)",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "BLUE REFLECTION Quartet Free Download",
+      "size": "32.9 GB",
+      "uploadDate": "2026-07-30T18:07:19+00:00",
+      "url": "https://gofile.io/d/eIpL2L",
+      "uris": [
+        "https://gofile.io/d/eIpL2L",
+        "https://bzzhr.to/s50nyvk7v01w"
+      ],
+      "version": "Build 23444832",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Bills Must Be Paid Free Download",
       "size": "211.5 MB",
       "uploadDate": "2026-09-17T02:25:51+00:00",
@@ -7020,84 +7101,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Live Hard, Die Hard Free Download",
-      "size": "460.5 MB",
-      "uploadDate": "2026-07-20T05:59:51+00:00",
-      "url": "https://bzzhr.to/vm9hp7zb14ag",
-      "uris": [
-        "https://bzzhr.to/vm9hp7zb14ag"
-      ],
-      "version": "Build 22014042",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Craftopia Free Download (Build 22614076 + LAN)",
-      "size": "12.3 GB",
-      "uploadDate": "2026-07-20T03:39:41+00:00",
-      "url": "https://gofile.io/d/OiqksD",
-      "uris": [
-        "https://gofile.io/d/OiqksD",
-        "https://bzzhr.to/h92glogn836c"
-      ],
-      "version": "Build 22614076",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "We Were Here Together Free Download (Build 7429812 + Co-op)",
-      "size": "4.3 GB",
-      "uploadDate": "2026-07-23T17:04:41+00:00",
-      "url": "https://bzzhr.to/o8wpigsys8s8",
-      "uris": [
-        "https://bzzhr.to/o8wpigsys8s8"
-      ],
-      "version": "v1.7.6",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "TYRONE SOULZ Free Download",
-      "size": "1 GB",
-      "uploadDate": "2026-07-19T13:55:12+00:00",
-      "url": "https://bzzhr.to/c92rtx0iylg4",
-      "uris": [
-        "https://bzzhr.to/c92rtx0iylg4"
-      ],
-      "version": "Build 14519752",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dishwashing Simulator Free Download",
-      "size": "529.8 MB",
-      "uploadDate": "2026-07-19T13:43:16+00:00",
-      "url": "https://bzzhr.to/k32b35vnnr1c",
-      "uris": [
-        "https://bzzhr.to/k32b35vnnr1c"
-      ],
-      "version": "Build 22545985",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Donut County Free Download",
-      "size": "207.1 MB",
-      "uploadDate": "2026-07-19T13:42:32+00:00",
-      "url": "https://bzzhr.to/5nf2p03ehjmg",
-      "uris": [
-        "https://bzzhr.to/5nf2p03ehjmg"
-      ],
-      "version": "Build 20230777",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "eSail Sailing Simulator Free Download",
-      "size": "1.2 GB",
-      "uploadDate": "2026-07-19T13:43:29+00:00",
-      "url": "https://bzzhr.to/ocdirpgkamoh",
-      "uris": [
-        "https://bzzhr.to/ocdirpgkamoh"
-      ],
-      "version": "Build 23967005",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "The Hidden Scrolls Free Download",
       "size": "1.8 GB",
       "uploadDate": "2026-07-19T08:55:52+00:00",
@@ -8147,6 +8150,85 @@
         "https://bzzhr.to/j5fk9buzdtag"
       ],
       "version": "Build 20246930",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Goblin Company Free Download (Build 23853060 + Co-op)",
+      "size": "898.8 MB",
+      "uploadDate": "2026-07-10T12:04:07+00:00",
+      "url": "https://bzzhr.to/dlt2mhqgu9j5",
+      "uris": [
+        "https://bzzhr.to/dlt2mhqgu9j5"
+      ],
+      "version": "Build 23853060",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Palworld Free Download (v1.0.5.102999 + Multiplayer)",
+      "size": "30.7 GB",
+      "uploadDate": "2026-10-05T18:07:07+00:00",
+      "url": "https://bzzhr.to/02dn9zq6n2oh",
+      "uris": [
+        "https://bzzhr.to/02dn9zq6n2oh",
+        "https://gofile.io/d/38jenJmY"
+      ],
+      "version": "v1.0.5.102999",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Cat Mail Co. Free Download (Build 24152930 + Online)",
+      "size": "640 MB",
+      "uploadDate": "2026-07-11T13:06:55+00:00",
+      "url": "https://bzzhr.to/05877yr1ftl1",
+      "uris": [
+        "https://bzzhr.to/05877yr1ftl1"
+      ],
+      "version": "Build 24152930",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "NBA 2K18 Free Download",
+      "size": "61.5 GB",
+      "uploadDate": "2026-07-09T12:55:27+00:00",
+      "url": "https://bzzhr.to/os9kicz2240g",
+      "uris": [
+        "https://bzzhr.to/os9kicz2240g"
+      ],
+      "version": "v1.08",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Chrono Gear: Warden of Time Free Download",
+      "size": "982.9 MB",
+      "uploadDate": "2026-07-09T06:21:43+00:00",
+      "url": "https://bzzhr.to/vhaho34tbbs6",
+      "uris": [
+        "https://bzzhr.to/vhaho34tbbs6"
+      ],
+      "version": "Build 24101690",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Rana Card Free Download",
+      "size": "626.6 MB",
+      "uploadDate": "2026-07-09T06:21:04+00:00",
+      "url": "https://bzzhr.to/wvzj5oghjopn",
+      "uris": [
+        "https://bzzhr.to/wvzj5oghjopn"
+      ],
+      "version": "Build 23977071",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Digimon Story Time Stranger Free Download (Build 23514637)",
+      "size": "26.2 GB",
+      "uploadDate": "2026-07-09T06:03:10+00:00",
+      "url": "https://gofile.io/d/Idm7mk",
+      "uris": [
+        "https://gofile.io/d/Idm7mk",
+        "https://bzzhr.to/7um16uv7orpy"
+      ],
+      "version": "Build 23514637",
       "provider": "SteamRIP"
     },
     {
@@ -11599,93 +11681,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Plants vs. Zombies: Garden Warfare Free Download (v1.0.3.0 + Multiplayer)",
-      "size": "6.6 GB",
-      "uploadDate": "2026-05-01T01:32:30+00:00",
-      "url": "https://gofile.io/d/IfqGLA",
-      "uris": [
-        "https://gofile.io/d/IfqGLA",
-        "https://fileditchfiles.me/file.php?f=/alpha3/faac64451aa8097f448a/Plants-vs-Zombies-GW-SteamRIP.com.rar"
-      ],
-      "version": "v1.0.3.0",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Far Far West Free Download (Build 25174443 + Co-op)",
-      "size": "4.8 GB",
-      "uploadDate": "2026-09-20T08:45:51+00:00",
-      "url": "https://bzzhr.to/yl19hoz0as55",
-      "uris": [
-        "https://bzzhr.to/yl19hoz0as55",
-        "https://fileditchfiles.st/balpha20/407f5d789fd1e2fc9da4/Far-Far-West-SteamRIP.com.rar"
-      ],
-      "version": "Build 25174443",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Black Myth: Wukong Digital Deluxe Edition Free Download",
-      "size": "136 GB",
-      "uploadDate": "2026-05-20T22:04:54+00:00",
-      "url": "https://1fichier.com/?otitcnfhsi09ttv85oxe",
-      "uris": [
-        "https://1fichier.com/?otitcnfhsi09ttv85oxe",
-        "https://www.filecrypt.cc/Container/0F8DEC2390",
-        "https://bzzhr.to/d5zjplf317y4",
-        "https://fileditchfiles.me/file.php?f=/alpha4/0xdeadbeef/Black-Myth-Wukong-SteamRIP.com.rar",
-        "https://megadb.net/s185tyhyrl3i"
-      ],
-      "version": "v1.0.21.23831 + All DLCs + Bonus Content",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Moomintroll: Winter’s Warmth Free Download (v0.1.1252)",
-      "size": "3.1 GB",
-      "uploadDate": "2026-04-28T13:48:23+00:00",
-      "url": "https://gofile.io/d/MxzTOx",
-      "uris": [
-        "https://gofile.io/d/MxzTOx",
-        "https://megadb.net/jg825vpnhy34"
-      ],
-      "version": "v0.1.1252",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Global Rescue Free Download (v0.3.29)",
-      "size": "1.9 GB",
-      "uploadDate": "2026-05-28T07:23:09+00:00",
-      "url": "https://gofile.io/d/2DCEIa",
-      "uris": [
-        "https://gofile.io/d/2DCEIa",
-        "https://megadb.net/01u1svxhh21j"
-      ],
-      "version": "v0.3.29 (Build 23344904)",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Vending Machine Co. Free Download",
-      "size": "709.1 MB",
-      "uploadDate": "2026-09-17T06:45:09+00:00",
-      "url": "https://megadb.net/ea705de5a9d0c21b",
-      "uris": [
-        "https://megadb.net/ea705de5a9d0c21b",
-        "https://bzzhr.to/xsjdbz0whp1u"
-      ],
-      "version": "Build 25138529",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Pratfall Free Download (v1.0.0.R2502 + Co-op)",
-      "size": "276 MB",
-      "uploadDate": "2026-06-17T19:27:21+00:00",
-      "url": "https://megadb.net/cstvojnj121h",
-      "uris": [
-        "https://megadb.net/cstvojnj121h",
-        "https://bzzhr.to/3n53q47gexh6"
-      ],
-      "version": "v1.0.0.R2502",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "Yunyun Syndrome Rhythm Psychosis Free Download",
       "size": "2.6 GB",
       "uploadDate": "2026-07-04T08:47:10+00:00",
@@ -13988,6 +13983,89 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "REANIMAL Free Download (v367303)",
+      "size": "13.2 GB",
+      "uploadDate": "2026-08-07T22:52:57+00:00",
+      "url": "https://bzzhr.to/g7fjs8qqpddd",
+      "uris": [
+        "https://bzzhr.to/g7fjs8qqpddd",
+        "https://gofile.io/d/hVHg0h"
+      ],
+      "version": "v367303",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "RIDE 6 Free Download",
+      "size": "52.7 GB",
+      "uploadDate": "2026-04-27T05:22:16+00:00",
+      "url": "https://1fichier.com/?g5l273a7ls22kfvyex4s",
+      "uris": [
+        "https://1fichier.com/?g5l273a7ls22kfvyex4s",
+        "https://www.filecrypt.cc/Container/2B87E777DA",
+        "https://bzzhr.to/0c1qujznqd8h"
+      ],
+      "version": "Build 21617499",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Underboard Free Download (v1.0.3)",
+      "size": "348 MB",
+      "uploadDate": "2026-02-11T20:32:30+00:00",
+      "url": "https://megadb.net/9z6zu6jl3e3g",
+      "uris": [
+        "https://megadb.net/9z6zu6jl3e3g"
+      ],
+      "version": "v1.0.3",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Crisol: Theater of Idols Free Download",
+      "size": "15.7 GB",
+      "uploadDate": "2026-04-28T04:40:33+00:00",
+      "url": "https://gofile.io/d/La32wW",
+      "uris": [
+        "https://gofile.io/d/La32wW",
+        "https://bzzhr.to/u98ovq4fnuc6"
+      ],
+      "version": "Build 21866503",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "EmoteLab Free Download (v0.1.1)",
+      "size": "156 MB",
+      "uploadDate": "2026-08-31T19:08:00+00:00",
+      "url": "https://megadb.net/z8sghqvfj5tg",
+      "uris": [
+        "https://megadb.net/z8sghqvfj5tg",
+        "https://bzzhr.to/mzrfd9x6nmf5"
+      ],
+      "version": "v0.1.1",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "ROMEO IS A DEAD MAN Free Download (v1.3.000)",
+      "size": "32.6 GB",
+      "uploadDate": "2026-04-28T04:40:47+00:00",
+      "url": "https://bzzhr.to/3lxvcumhac95",
+      "uris": [
+        "https://bzzhr.to/3lxvcumhac95"
+      ],
+      "version": "v1.3.000",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Mewgenics Free Download (v1.1.21239)",
+      "size": "3.9 GB",
+      "uploadDate": "2026-09-08T13:15:13+00:00",
+      "url": "https://gofile.io/d/8T4q7wWV",
+      "uris": [
+        "https://gofile.io/d/8T4q7wWV",
+        "https://megadb.net/92a730096344bcf7"
+      ],
+      "version": "v1.1.21239",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Berry Bury Berry Free Download",
       "size": "412 MB",
       "uploadDate": "2026-02-19T13:54:46+00:00",
@@ -15059,86 +15137,6 @@
         "https://bzzhr.to/zpee19p43377"
       ],
       "version": "Build 22602619",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Chill with You : Lo-Fi Story Free Download (v1.1.12)",
-      "size": "653 MB",
-      "uploadDate": "2026-04-09T16:48:06+00:00",
-      "url": "https://megadb.net/fa9a1d8j47jx",
-      "uris": [
-        "https://megadb.net/fa9a1d8j47jx"
-      ],
-      "version": "v1.1.12",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Who’s at the door? Free Download (v1.0.9)",
-      "size": "1.7 GB",
-      "uploadDate": "2026-04-09T16:47:27+00:00",
-      "url": "https://megadb.net/dtpqswkoo2pe",
-      "uris": [
-        "https://megadb.net/dtpqswkoo2pe"
-      ],
-      "version": "v1.0.9",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Rising Front Free Download (v1.01)",
-      "size": "4.6 GB",
-      "uploadDate": "2026-04-09T18:42:55+00:00",
-      "url": "https://gofile.io/d/OwWRgu",
-      "uris": [
-        "https://gofile.io/d/OwWRgu",
-        "https://megadb.net/c5cpbpn8f974"
-      ],
-      "version": "v1.01",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Snow Ash Free Download (Build 22618239)",
-      "size": "1.5 GB",
-      "uploadDate": "2026-04-04T23:59:01+00:00",
-      "url": "https://gofile.io/d/1OvCCb",
-      "uris": [
-        "https://gofile.io/d/1OvCCb",
-        "https://megadb.net/zf6qzr9avz5o"
-      ],
-      "version": "Build 22618239",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Pathologic 3 Free Download (v61362-st)",
-      "size": "31 GB",
-      "uploadDate": "2026-05-06T14:33:09+00:00",
-      "url": "https://bzzhr.to/sz2kwnqf2f2z",
-      "uris": [
-        "https://bzzhr.to/sz2kwnqf2f2z"
-      ],
-      "version": "v61362-st + Supporter Pack DLC",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Ancient Farm Free Download (v1.0.8)",
-      "size": "2.2 GB",
-      "uploadDate": "2026-05-06T14:33:26+00:00",
-      "url": "https://megadb.net/hrk3heu9yisx",
-      "uris": [
-        "https://megadb.net/hrk3heu9yisx",
-        "https://bzzhr.to/ogs5f6wj2ysv"
-      ],
-      "version": "v1.0.8",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Cozy Caravan Free Download (v1.6.0)",
-      "size": "1.45 GB",
-      "uploadDate": "2026-09-08T00:57:59+00:00",
-      "url": "https://megadb.net/e093767f0de521e4",
-      "uris": [
-        "https://megadb.net/e093767f0de521e4"
-      ],
-      "version": "v1.6.0",
       "provider": "SteamRIP"
     },
     {
@@ -16963,15 +16961,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Voidtrain Free Download (v1.05)",
+      "title": "Voidtrain Free Download (v1.07)",
       "size": "17.8 GB",
-      "uploadDate": "2026-10-02T02:22:13+00:00",
-      "url": "https://bzzhr.to/h9320s48lbq5",
+      "uploadDate": "2026-10-13T03:44:37+00:00",
+      "url": "https://bzzhr.to/sw19xjrt1at6",
       "uris": [
-        "https://bzzhr.to/h9320s48lbq5",
-        "https://fileditchfiles.st/balpha24/fd92d6ee2b32fccbf348/Voidtrain-SteamRIP.com.rar"
+        "https://bzzhr.to/sw19xjrt1at6",
+        "https://fileditchfiles.st/balpha30/ba3cdbe71e43d628618f/Voidtrain-SteamRIP.com.rar"
       ],
-      "version": "v1.05 HF",
+      "version": "v1.07",
       "provider": "SteamRIP"
     },
     {
@@ -17470,6 +17468,84 @@
         "https://bzzhr.to/tcomnb7jpf93"
       ],
       "version": "Build 20564340",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Trials Rising Free Download (Build 10831717)",
+      "size": "27.50 GB",
+      "uploadDate": "2025-10-19T09:10:30+00:00",
+      "url": "https://gofile.io/d/WL27L9",
+      "uris": [
+        "https://gofile.io/d/WL27L9",
+        "https://bzzhr.to/jx1b5hsn3o5f"
+      ],
+      "version": "Build 19756066",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Little Nightmares Enhanced Edition Free Download (Build 19756066)",
+      "size": "4.60 GB",
+      "uploadDate": "2025-10-19T09:05:18+00:00",
+      "url": "https://bzzhr.to/f7he1kfre7id",
+      "uris": [
+        "https://bzzhr.to/f7he1kfre7id"
+      ],
+      "version": "Build 19756066",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Backrooms: Extractions Free Download (Build 20403719 + Co-op)",
+      "size": "8.30 GB",
+      "uploadDate": "2025-10-19T08:59:34+00:00",
+      "url": "https://bzzhr.to/yciu6vr33vkc",
+      "uris": [
+        "https://bzzhr.to/yciu6vr33vkc"
+      ],
+      "version": "Build 20403719 + Online",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Virtual Desktop Free Download (Build 17928305)",
+      "size": "762.50 MB",
+      "uploadDate": "2025-10-19T08:51:36+00:00",
+      "url": "https://bzzhr.to/yhevxbut2kq5",
+      "uris": [
+        "https://bzzhr.to/yhevxbut2kq5"
+      ],
+      "version": "Build 17928305",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Fears to Fathom – Carson House Free Download (v1.6)",
+      "size": "5.70 GB",
+      "uploadDate": "2025-10-19T08:45:34+00:00",
+      "url": "https://bzzhr.to/0ahxm3z8vz9r",
+      "uris": [
+        "https://bzzhr.to/0ahxm3z8vz9r"
+      ],
+      "version": "v1.6",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Conquest of Elysium 5 Free Download (v5.34)",
+      "size": "674.70 MB",
+      "uploadDate": "2025-10-19T08:40:39+00:00",
+      "url": "https://bzzhr.to/o6f5inkee003",
+      "uris": [
+        "https://bzzhr.to/o6f5inkee003"
+      ],
+      "version": "v5.34",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles Free Download",
+      "size": "5.70 GB",
+      "uploadDate": "2025-10-19T08:35:23+00:00",
+      "url": "https://bzzhr.to/kbrqpz5ouhv6",
+      "uris": [
+        "https://bzzhr.to/kbrqpz5ouhv6"
+      ],
+      "version": "Build 15431859",
       "provider": "SteamRIP"
     },
     {
@@ -18479,15 +18555,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Supercar Collection Simulator Free Download (Build 22955063)",
-      "size": "2.1 GB",
-      "uploadDate": "2026-04-27T12:36:39+00:00",
-      "url": "https://gofile.io/d/Uuyzt1",
+      "title": "Supercar Collection Simulator Free Download (Build 25342118)",
+      "size": "1.9 GB",
+      "uploadDate": "2026-10-12T20:25:04+00:00",
+      "url": "https://megadb.net/23f5602fed9c4ac1",
       "uris": [
-        "https://gofile.io/d/Uuyzt1",
-        "https://megadb.net/q29bydebick4"
+        "https://megadb.net/23f5602fed9c4ac1"
       ],
-      "version": "Build 22955063",
+      "version": "Build 25342118",
       "provider": "SteamRIP"
     },
     {
@@ -19158,10 +19233,11 @@
     {
       "title": "Discounty Free Download",
       "size": "235 MB",
-      "uploadDate": "2025-08-21T22:54:02+00:00",
+      "uploadDate": "2026-10-13T06:02:12+00:00",
       "url": "https://megadb.net/l0ocjalalca4",
       "uris": [
-        "https://megadb.net/l0ocjalalca4"
+        "https://megadb.net/l0ocjalalca4",
+        "https://bzzhr.to/6omode3zjek7"
       ],
       "version": "Build 19596934",
       "provider": "SteamRIP"
@@ -20894,90 +20970,6 @@
         "https://bzzhr.to/h7ktx2qzgurp"
       ],
       "version": "v6 (82931)",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dead Rising 2 Free Download (Build 11445504)",
-      "size": "6.5 GB",
-      "uploadDate": "2026-06-03T16:25:18+00:00",
-      "url": "https://gofile.io/d/OLEC5G",
-      "uris": [
-        "https://gofile.io/d/OLEC5G",
-        "https://bzzhr.to/5ak42vdxb4jb"
-      ],
-      "version": "Build 11445504",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Spec Ops: The Line Free Download (Build 765818 + LAN/Co-op)",
-      "size": "7.1 GB",
-      "uploadDate": "2026-01-09T04:36:53+00:00",
-      "url": "https://gofile.io/d/MFgbvX",
-      "uris": [
-        "https://gofile.io/d/MFgbvX",
-        "https://bzzhr.to/6z6qutzjwvwp"
-      ],
-      "version": "Build 765818",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "The NOexistenceN of you AND me Free Download (v2.333 1.9)",
-      "size": "1.3 GB",
-      "uploadDate": "2026-01-09T04:37:16+00:00",
-      "url": "https://bzzhr.to/b2g5spk0da5p",
-      "uris": [
-        "https://bzzhr.to/b2g5spk0da5p"
-      ],
-      "version": "v2.333 1.9",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Transformers: Fall of Cybertron Free Download (Build 12831)",
-      "size": "8.1 GB",
-      "uploadDate": "2025-07-04T13:58:54+00:00",
-      "url": "https://gofile.io/d/Dqi27p",
-      "uris": [
-        "https://gofile.io/d/Dqi27p",
-        "https://bzzhr.to/08ltgzli2hv6"
-      ],
-      "version": "Build 12831",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "ToHeart Free Download",
-      "size": "6.4 GB",
-      "uploadDate": "2026-04-30T01:46:32+00:00",
-      "url": "https://megadb.net/gczrhkp3u87o",
-      "uris": [
-        "https://megadb.net/gczrhkp3u87o",
-        "https://fileditchfiles.me/file.php?f=/alpha3/141c9cebd853add44c8c/ToHeart-SteamRIP.com.rar"
-      ],
-      "version": "Build 18895210",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "CityDriver Free Download (v25.06.26.43749)",
-      "size": "21 GB",
-      "uploadDate": "2026-05-01T03:51:40+00:00",
-      "url": "https://gofile.io/d/c7ztVN",
-      "uris": [
-        "https://gofile.io/d/c7ztVN",
-        "https://fileditchfiles.me/file.php?f=/alpha3/35c00423c4eafe6e9a1d/CityDriver-SteamRIP.com.rar",
-        "https://bzzhr.to/1hqnwlkmvrdi"
-      ],
-      "version": "v25.06.26.43749",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Uncrashed : FPV Drone Simulator Free Download (Build 18480550)",
-      "size": "17.6 GB",
-      "uploadDate": "2025-07-03T13:39:12+00:00",
-      "url": "https://gofile.io/d/L3Msug",
-      "uris": [
-        "https://gofile.io/d/L3Msug",
-        "https://bzzhr.to/warz9izvmtmb"
-      ],
-      "version": "Build 18480550",
       "provider": "SteamRIP"
     },
     {
@@ -23320,6 +23312,88 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Post Trauma Free Download (v1.04)",
+      "size": "9.5 GB",
+      "uploadDate": "2025-04-23T03:30:21+00:00",
+      "url": "https://bzzhr.to/c6imah8kdtmv",
+      "uris": [
+        "https://bzzhr.to/c6imah8kdtmv",
+        "https://megadb.net/omnemqra68qe"
+      ],
+      "version": "v1.04",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Elder Scrolls IV: Oblivion Remastered Free Download (v0.411.140.0)",
+      "size": "123 GB",
+      "uploadDate": "2026-04-30T01:57:15+00:00",
+      "url": "https://1fichier.com/?t63zzdh8grj32xc4a3ie",
+      "uris": [
+        "https://1fichier.com/?t63zzdh8grj32xc4a3ie",
+        "https://www.filecrypt.cc/Container/408A319A32",
+        "https://bzzhr.to/fagwi8ecnvsv"
+      ],
+      "version": "v0.411.140.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Slimekeep Free Download (v1.0.4)",
+      "size": "223 MB",
+      "uploadDate": "2025-04-22T03:40:03+00:00",
+      "url": "https://megadb.net/n7lanpblo5lx",
+      "uris": [
+        "https://megadb.net/n7lanpblo5lx"
+      ],
+      "version": "v1.0.4",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Soulslinger: Envoy of Death Free Download (v1.031)",
+      "size": "25.9 GB",
+      "uploadDate": "2026-10-02T18:26:53+00:00",
+      "url": "https://gofile.io/d/CfUGFg",
+      "uris": [
+        "https://gofile.io/d/CfUGFg",
+        "https://bzzhr.to/904fdkxyfsnx"
+      ],
+      "version": "v1.031",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Viscerafest Free Download",
+      "size": "5.1 GB",
+      "uploadDate": "2025-04-21T05:06:51+00:00",
+      "url": "https://megadb.net/6h1sdk0gq0fr",
+      "uris": [
+        "https://megadb.net/6h1sdk0gq0fr"
+      ],
+      "version": "Build 18124479",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "HOLE Free Download (v1.0.6)",
+      "size": "448 MB",
+      "uploadDate": "2025-04-21T04:25:09+00:00",
+      "url": "https://megadb.net/9k7cdkfpcp15",
+      "uris": [
+        "https://megadb.net/9k7cdkfpcp15"
+      ],
+      "version": "v1.0.6",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Sunset Motel Free Download",
+      "size": "3.8 GB",
+      "uploadDate": "2025-04-21T05:12:49+00:00",
+      "url": "https://gofile.io/d/gpklec",
+      "uris": [
+        "https://gofile.io/d/gpklec",
+        "https://megadb.net/wna2msj5l4oh"
+      ],
+      "version": "Build 18172443",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Block Fortress 2 Free Download",
       "size": "1.4 GB",
       "uploadDate": "2025-04-20T05:27:37+00:00",
@@ -25654,87 +25728,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Assetto Corsa EVO Free Download",
-      "size": "25.9 GB",
-      "uploadDate": "2026-06-28T06:30:36+00:00",
-      "url": "https://gofile.io/d/UYFql9",
-      "uris": [
-        "https://gofile.io/d/UYFql9",
-        "https://bzzhr.to/dzfpe8rwrzi6"
-      ],
-      "version": "Build 23563172",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "DYNASTY WARRIORS: ORIGINS Free Download (v1.0.1.0)",
-      "size": "53 GB",
-      "uploadDate": "2026-10-03T00:08:58+00:00",
-      "url": "https://bzzhr.to/o94cipyd44g3",
-      "uris": [
-        "https://bzzhr.to/o94cipyd44g3",
-        "https://fileditchfiles.st/alpha33/ce13aa0d109f23e2c078/DYNASTY-WARRIORS-O-SteamRIP.com.rar"
-      ],
-      "version": "v1.0.1.0",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dungeon Defenders: Going Rogue Free Download (v0.9.34625EA)",
-      "size": "4.9 GB",
-      "uploadDate": "2025-01-15T23:49:26+00:00",
-      "url": "https://megadb.net/23v5v8tax817",
-      "uris": [
-        "https://megadb.net/23v5v8tax817"
-      ],
-      "version": "v0.9.34625EA",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Parkitect Free Download (v1.11d)",
-      "size": "779 MB",
-      "uploadDate": "2025-03-16T09:05:31+00:00",
-      "url": "https://megadb.net/hyew1pwsrak9",
-      "uris": [
-        "https://megadb.net/hyew1pwsrak9"
-      ],
-      "version": "v1.11d",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Magicbook AutoBattler Free Download",
-      "size": "437 MB",
-      "uploadDate": "2026-05-01T04:03:16+00:00",
-      "url": "https://megadb.net/id03i3jzma1c",
-      "uris": [
-        "https://megadb.net/id03i3jzma1c",
-        "https://fileditchfiles.me/file.php?f=/alpha3/217af621c1b41f045fbc/Magicbook-AutoBattler-SteamRIP.com.rar"
-      ],
-      "version": "Build 16994500",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Hyper Light Breaker Free Download (v0.6.0.116066)",
-      "size": "5.4 GB",
-      "uploadDate": "2026-05-01T06:28:04+00:00",
-      "url": "https://megadb.net/upyvaicry5m7",
-      "uris": [
-        "https://megadb.net/upyvaicry5m7",
-        "https://fileditchfiles.me/file.php?f=/alpha3/8720be48864d72e4ffa1/Hyper-Light-Breaker-SteamRIP.com.rar"
-      ],
-      "version": "v0.6.0.116066",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Magenta Horizon – Neverending Harvest Free Download (v1.2.1)",
-      "size": "1.5 GB",
-      "uploadDate": "2026-03-31T20:38:05+00:00",
-      "url": "https://megadb.net/kbjvl3kaf5tu",
-      "uris": [
-        "https://megadb.net/kbjvl3kaf5tu"
-      ],
-      "version": "v1.2.1",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "Ecosystem Free Download (v1.01)",
       "size": "1.1 GB",
       "uploadDate": "2025-01-13T23:20:24+00:00",
@@ -26817,6 +26810,90 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Loco Motive Free Download (v1.0.3)",
+      "size": "541 MB",
+      "uploadDate": "2024-11-24T22:02:49+00:00",
+      "url": "https://megadb.net/m1t0f8i40sn5",
+      "uris": [
+        "https://megadb.net/m1t0f8i40sn5"
+      ],
+      "version": "v1.0.3",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Devil Within: Satgat Free Download (v1.4.82.46571)",
+      "size": "7.1 GB",
+      "uploadDate": "2024-11-24T22:01:43+00:00",
+      "url": "https://megadb.net/cevbby9h413p",
+      "uris": [
+        "https://megadb.net/cevbby9h413p"
+      ],
+      "version": "v1.4.82.46571",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "ICBM: Escalation Free Download (v1.1.1b)",
+      "size": "8 GB",
+      "uploadDate": "2026-03-31T21:25:16+00:00",
+      "url": "https://gofile.io/d/X3Jglo",
+      "uris": [
+        "https://gofile.io/d/X3Jglo",
+        "https://bzzhr.to/qi7c6sww1xxb"
+      ],
+      "version": "v1.1.1b",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Grocery Store Simulator Free Download (v1.1 + Co-op)",
+      "size": "5.9 GB",
+      "uploadDate": "2025-09-16T12:20:25+00:00",
+      "url": "https://gofile.io/d/0fdUqu",
+      "uris": [
+        "https://gofile.io/d/0fdUqu",
+        "https://bzzhr.to/s5wtrg6cl4u4",
+        "https://megadb.net/dt4hws0w4f7a"
+      ],
+      "version": "v1.1",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Shop Simulator: Supermarket Free Download (v1.0.5.2)",
+      "size": "1.6 GB",
+      "uploadDate": "2024-11-23T00:45:30+00:00",
+      "url": "https://megadb.net/o6b8t5twx8qh",
+      "uris": [
+        "https://megadb.net/o6b8t5twx8qh"
+      ],
+      "version": "v1.0.5.2",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl Free Download (v2.0.3)",
+      "size": "188 GB",
+      "uploadDate": "2026-08-28T01:49:21+00:00",
+      "url": "https://bzzhr.to/x1u8zy8x8kp3",
+      "uris": [
+        "https://bzzhr.to/x1u8zy8x8kp3",
+        "https://fileditchfiles.st/balpha10/27665f38cb56c50d4fb7/STALKER-2-HoC-SteamRIP.com.part1.rar",
+        "https://fileditchfiles.st/balpha10/8c4e00bf17258933fb58/STALKER-2-HoC-SteamRIP.com.part2.rar",
+        "https://fileditchfiles.st/balpha10/32559c1acdb31713cae3/STALKER-2-HoC-SteamRIP.com.part3.rar",
+        "https://fileditchfiles.st/balpha10/f1fb8ee86f80118285ed/STALKER-2-HoC-SteamRIP.com.part4.rar"
+      ],
+      "version": "v2.0.3 (Build 24914692) + 4 DLC & Extras",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Papa’s Pizzeria Deluxe Free Download (v1.0.1)",
+      "size": "94 MB",
+      "uploadDate": "2024-11-21T16:52:21+00:00",
+      "url": "https://megadb.net/0bidhh5q4app",
+      "uris": [
+        "https://megadb.net/0bidhh5q4app"
+      ],
+      "version": "v1.0.1",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Luma Island Free Download (v1.1.10)",
       "size": "2.8 GB",
       "uploadDate": "2026-06-23T03:20:32+00:00",
@@ -27420,13 +27497,13 @@
     {
       "title": "Forgive Me Father 2 Free Download",
       "size": "7.8 GB",
-      "uploadDate": "2024-10-25T02:54:44+00:00",
-      "url": "https://gofile.io/d/LU8e84",
+      "uploadDate": "2026-10-12T17:27:22+00:00",
+      "url": "https://bzzhr.to/ndrn1p1u25th",
       "uris": [
-        "https://gofile.io/d/LU8e84",
-        "https://megadb.net/rsdl6afith7j"
+        "https://bzzhr.to/ndrn1p1u25th",
+        "https://fileditchfiles.st/alpha36/078cc7505d6404bd298b/Forgive_Me_Father_2_Deluxe_Edition-SteamRIP.com.rar"
       ],
-      "version": "Build 16168486",
+      "version": "Build 25253786",
       "provider": "SteamRIP"
     },
     {
@@ -27889,86 +27966,6 @@
         "https://megadb.net/95btffl2siwh"
       ],
       "version": "v1.6.8",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Rogue Waters Free Download (v1.0.0.3149)",
-      "size": "4.6 GB",
-      "uploadDate": "2024-09-30T20:07:41+00:00",
-      "url": "https://megadb.net/2yr783fwsif3",
-      "uris": [
-        "https://megadb.net/2yr783fwsif3"
-      ],
-      "version": "v1.0.0.3149",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Slackers – Carts of Glory Free Download (v0.9992)",
-      "size": "2.1 GB",
-      "uploadDate": "2026-08-06T09:26:32+00:00",
-      "url": "https://gofile.io/d/1B0OXe",
-      "uris": [
-        "https://gofile.io/d/1B0OXe",
-        "https://megadb.net/ccbb823916206c49"
-      ],
-      "version": "v0.9992",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Iron Meat Free Download",
-      "size": "416 MB",
-      "uploadDate": "2024-09-29T20:03:00+00:00",
-      "url": "https://megadb.net/88soyzdg1z60",
-      "uris": [
-        "https://megadb.net/88soyzdg1z60"
-      ],
-      "version": "Build 15226694",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "G.I. Joe: Wrath of Cobra Free Download (v1.0)",
-      "size": "562 MB",
-      "uploadDate": "2024-09-29T14:48:28+00:00",
-      "url": "https://megadb.net/4u5rw4bux2da",
-      "uris": [
-        "https://megadb.net/4u5rw4bux2da"
-      ],
-      "version": "v1.0",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dungeon Tycoon Free Download (v1.3.3)",
-      "size": "287 MB",
-      "uploadDate": "2026-05-24T09:01:59+00:00",
-      "url": "https://megadb.net/5e13pvfec5e5",
-      "uris": [
-        "https://megadb.net/5e13pvfec5e5",
-        "https://bzzhr.to/fcmwtjbm5i32"
-      ],
-      "version": "v1.3.3",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Witchfire Free Download (v0.9.5)",
-      "size": "49.2 GB",
-      "uploadDate": "2026-07-09T18:00:09+00:00",
-      "url": "https://bzzhr.to/rqm133uu94cx",
-      "uris": [
-        "https://bzzhr.to/rqm133uu94cx"
-      ],
-      "version": "v0.9.5",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Factory Outlet Simulator Free Download (v1.0)",
-      "size": "1.5 GB",
-      "uploadDate": "2025-03-12T20:15:31+00:00",
-      "url": "https://megadb.net/sogj7ho7oao0",
-      "uris": [
-        "https://megadb.net/sogj7ho7oao0",
-        "https://bzzhr.to/vvxmafiqo93e"
-      ],
-      "version": "v1.0",
       "provider": "SteamRIP"
     },
     {
@@ -29139,14 +29136,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "World of Goo 2 Free Download (v13112W)",
-      "size": "1.7 GB",
-      "uploadDate": "2025-04-29T18:29:55+00:00",
-      "url": "https://megadb.net/yhkrqq4hk741",
+      "title": "World of Goo 2 Free Download (v13205W)",
+      "size": "1.6 GB",
+      "uploadDate": "2026-10-13T04:07:14+00:00",
+      "url": "https://megadb.net/32ce03650e17dc5d",
       "uris": [
-        "https://megadb.net/yhkrqq4hk741"
+        "https://megadb.net/32ce03650e17dc5d"
       ],
-      "version": "v13112W",
+      "version": "v13205W",
       "provider": "SteamRIP"
     },
     {
@@ -32547,6 +32544,85 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Rail Route Free Download",
+      "size": "1.1 GB",
+      "uploadDate": "2026-07-26T07:12:51+00:00",
+      "url": "https://bzzhr.to/2xv7n4y0ubhj",
+      "uris": [
+        "https://bzzhr.to/2xv7n4y0ubhj"
+      ],
+      "version": "Build 24372175",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "SANABI Free Download (v1.3.51)",
+      "size": "3.8 GB",
+      "uploadDate": "2025-12-11T00:32:34+00:00",
+      "url": "https://megadb.net/wiwblobytu50",
+      "uris": [
+        "https://megadb.net/wiwblobytu50"
+      ],
+      "version": "v1.3.51",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Inkulinati Free Download (v1.48.1.0)",
+      "size": "1.3 GB",
+      "uploadDate": "2024-09-03T12:23:50+00:00",
+      "url": "https://megadb.net/eahloevlcykr",
+      "uris": [
+        "https://megadb.net/eahloevlcykr"
+      ],
+      "version": "v1.48.1.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "PewDiePie: Legend of the Brofist Free Download (v1.4.0)",
+      "size": "110 MB",
+      "uploadDate": "2024-03-10T09:18:51+00:00",
+      "url": "https://megadb.net/vke4t5sr55rz",
+      "uris": [
+        "https://megadb.net/vke4t5sr55rz"
+      ],
+      "version": "v1.4.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Sons Of The Forest Free Download (Build 20228174 + Co-op)",
+      "size": "10.9 GB",
+      "uploadDate": "2026-09-14T15:17:06+00:00",
+      "url": "https://gofile.io/d/fMSR6c",
+      "uris": [
+        "https://gofile.io/d/fMSR6c",
+        "https://bzzhr.to/xb7r5vhvz6ir"
+      ],
+      "version": "v1.0 (Build 20228174)",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Garden Life: A Cozy Simulator Free Download (v1272@67558)",
+      "size": "4.1 GB",
+      "uploadDate": "2025-02-13T23:59:56+00:00",
+      "url": "https://megadb.net/zv37joqkce9k",
+      "uris": [
+        "https://megadb.net/zv37joqkce9k"
+      ],
+      "version": "v1272@67558",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Pacific Drive Free Download (v1.15.0)",
+      "size": "24.9 GB",
+      "uploadDate": "2026-02-24T22:08:12+00:00",
+      "url": "https://vikingfile.com/f/ZndNpBV3Mj",
+      "uris": [
+        "https://vikingfile.com/f/ZndNpBV3Mj",
+        "https://bzzhr.to/x03t03ty040d"
+      ],
+      "version": "v1.15.0",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "SteamWorld Dig 2 Free Download (v1.1)",
       "size": "250 MB",
       "uploadDate": "2024-03-10T09:19:27+00:00",
@@ -33626,73 +33702,6 @@
         "https://megadb.net/w00qcnsaa3hj"
       ],
       "version": "Build 12637015",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Little Inferno Free Download (Build 10124709)",
-      "size": "383 MB",
-      "uploadDate": "2024-03-10T09:34:40+00:00",
-      "url": "https://megadb.net/r09i6o27oza4",
-      "uris": [
-        "https://megadb.net/r09i6o27oza4"
-      ],
-      "version": "Build 10124709",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Wingspan Free Download (v1.8.1156)",
-      "size": "2.6 GB",
-      "uploadDate": "2026-06-16T16:48:43+00:00",
-      "url": "https://megadb.net/kbk1p9oeneyw",
-      "uris": [
-        "https://megadb.net/kbk1p9oeneyw"
-      ],
-      "version": "v1.8.1156",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Monster Prom 2: Monster Camp Free Download (Build 13022572)",
-      "size": "809 MB",
-      "uploadDate": "2024-03-10T09:34:30+00:00",
-      "url": "https://megadb.net/tg4ybads85sl",
-      "uris": [
-        "https://megadb.net/tg4ybads85sl"
-      ],
-      "version": "Build 10345765",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Alan Wake Remastered Free Download (v1.33)",
-      "size": "28.1 GB",
-      "uploadDate": "2026-08-22T12:09:37+00:00",
-      "url": "https://bzzhr.to/9cbdudwniun6",
-      "uris": [
-        "https://bzzhr.to/9cbdudwniun6"
-      ],
-      "version": "v1.33",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Power & Revolution 2023 Edition Free Download (v6.94)",
-      "size": "4.5 GB",
-      "uploadDate": "2024-03-10T09:34:14+00:00",
-      "url": "https://megadb.net/5lc6pud9j0mu",
-      "uris": [
-        "https://megadb.net/5lc6pud9j0mu"
-      ],
-      "version": "v6.94",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "HOT WHEELS UNLEASHED 2 – Turbocharged Free Download",
-      "size": "17 GB",
-      "uploadDate": "2026-09-30T02:30:35+00:00",
-      "url": "https://gofile.io/d/F7IgGZ",
-      "uris": [
-        "https://gofile.io/d/F7IgGZ",
-        "https://bzzhr.to/27c78cgu7vvq"
-      ],
-      "version": "Build 13004498",
       "provider": "SteamRIP"
     },
     {
@@ -35978,6 +35987,85 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Kill The Crows Free Download",
+      "size": "137 MB",
+      "uploadDate": "2024-03-10T15:44:58+00:00",
+      "url": "https://megadb.net/g5mr4fko6ex7",
+      "uris": [
+        "https://megadb.net/g5mr4fko6ex7"
+      ],
+      "version": "Build 12000388",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "WrestleQuest Free Download (Build 15388309)",
+      "size": "1.5 GB",
+      "uploadDate": "2024-11-23T00:56:30+00:00",
+      "url": "https://megadb.net/vrjjar4hcsqz",
+      "uris": [
+        "https://megadb.net/vrjjar4hcsqz"
+      ],
+      "version": "Build 15388309",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Mist Slayer Free Download (v1.0.2)",
+      "size": "2.2 GB",
+      "uploadDate": "2024-03-10T15:44:35+00:00",
+      "url": "https://megadb.net/byi7w0olkclr",
+      "uris": [
+        "https://megadb.net/byi7w0olkclr"
+      ],
+      "version": "v1.0.2",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "AMID EVIL Free Download (Build 2614)",
+      "size": "11.3 GB",
+      "uploadDate": "2024-03-10T15:44:22+00:00",
+      "url": "https://megadb.net/7yhcslulz6j2",
+      "uris": [
+        "https://megadb.net/7yhcslulz6j2",
+        "https://pixeldrain.com/u/fF25XcPm"
+      ],
+      "version": "Build 2614",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Black Skylands Free Download (Build 12247500)",
+      "size": "645 MB",
+      "uploadDate": "2026-08-10T21:54:39+00:00",
+      "url": "https://megadb.net/2924bd4d0eaec691",
+      "uris": [
+        "https://megadb.net/2924bd4d0eaec691"
+      ],
+      "version": "Build 12247500",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Texas Chain Saw Massacre Free Download (v1.0.47.0 + Multiplayer)",
+      "size": "32.4 GB",
+      "uploadDate": "2026-10-10T00:45:43+00:00",
+      "url": "https://gofile.io/d/Ngkjlx",
+      "uris": [
+        "https://gofile.io/d/Ngkjlx",
+        "https://bzzhr.to/47y08ha7873t"
+      ],
+      "version": "v1.0.47.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "BOOK OF HOURS Free Download (v2023.8.b.5)",
+      "size": "1.1 GB",
+      "uploadDate": "2024-03-10T15:44:11+00:00",
+      "url": "https://megadb.net/iu79pmbj9vv3",
+      "uris": [
+        "https://megadb.net/iu79pmbj9vv3"
+      ],
+      "version": "v2023.8.b.5",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Golf It! Free Download (v1.0)",
       "size": "4.6 GB",
       "uploadDate": "2024-03-10T15:44:08+00:00",
@@ -37042,83 +37130,6 @@
         "https://bzzhr.to/skfn19zae7ed"
       ],
       "version": "v1.0.6.2048",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Bad Guys at School Free Download",
-      "size": "1.8 GB",
-      "uploadDate": "2024-03-10T16:35:43+00:00",
-      "url": "https://megadb.net/komfehkwqitc",
-      "uris": [
-        "https://megadb.net/komfehkwqitc"
-      ],
-      "version": "Build 5397513",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Worms Clan Wars Free Download (v0185)",
-      "size": "1.4 GB",
-      "uploadDate": "2024-03-10T16:35:41+00:00",
-      "url": "https://megadb.net/4ae6ee72uq55",
-      "uris": [
-        "https://megadb.net/4ae6ee72uq55"
-      ],
-      "version": "v0185",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Kingdom Eighties Free Download (v1.0)",
-      "size": "1.5 GB",
-      "uploadDate": "2024-03-10T16:35:38+00:00",
-      "url": "https://megadb.net/bg1o1uz7lo4w",
-      "uris": [
-        "https://megadb.net/bg1o1uz7lo4w"
-      ],
-      "version": "v1.0",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Prison Boss VR Free Download (Build 21988589)",
-      "size": "341 MB",
-      "uploadDate": "2026-06-20T08:00:37+00:00",
-      "url": "https://bzzhr.to/r7o5813ekmxk",
-      "uris": [
-        "https://bzzhr.to/r7o5813ekmxk"
-      ],
-      "version": "Build 21988589",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dr. Fetus’ Mean Meat Machine Free Download",
-      "size": "341 MB",
-      "uploadDate": "2024-03-10T16:35:23+00:00",
-      "url": "https://megadb.net/vfa87j0amiib",
-      "uris": [
-        "https://megadb.net/vfa87j0amiib"
-      ],
-      "version": "v1.0.1",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Spirit Hunters: Infinite Horde Free Download",
-      "size": "959 MB",
-      "uploadDate": "2024-03-10T16:35:15+00:00",
-      "url": "https://megadb.net/fq8k40a97gf5",
-      "uris": [
-        "https://megadb.net/fq8k40a97gf5"
-      ],
-      "version": "v1.0.3443",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Nova Lands Free Download (v1.1.10)",
-      "size": "725 MB",
-      "uploadDate": "2024-03-10T16:35:12+00:00",
-      "url": "https://megadb.net/ov1j9tksd8c7",
-      "uris": [
-        "https://megadb.net/ov1j9tksd8c7"
-      ],
-      "version": "v1.1.10",
       "provider": "SteamRIP"
     },
     {
@@ -40516,6 +40527,92 @@
         "https://megadb.net/3fgzwgosfs9o"
       ],
       "version": "v0.35.04 (Build 10570489)",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Resident Evil / biohazard HD REMASTER Free Download",
+      "size": "15.4 GB",
+      "uploadDate": "2026-07-10T20:02:26+00:00",
+      "url": "https://1fichier.com/?1xlwc8wejbiawuu21bek",
+      "uris": [
+        "https://1fichier.com/?1xlwc8wejbiawuu21bek",
+        "https://gofile.io/d/OJkkYx",
+        "https://bzzhr.to/su4k84ksobc1",
+        "https://fileditchfiles.me/alpha7/e1df83639a9982bdf153/Resident-Evil-HD-Remaster-SteamRIP.com.rar"
+      ],
+      "version": "Build 3149858",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "A Plague Tale: Requiem Free Download (v1.4.0.0)",
+      "size": "47.2 GB",
+      "uploadDate": "2025-08-25T09:34:48+00:00",
+      "url": "https://1fichier.com/?agrtj25zv3yqtw0adxk1",
+      "uris": [
+        "https://1fichier.com/?agrtj25zv3yqtw0adxk1",
+        "https://www.filecrypt.cc/Container/E4D1B6F553",
+        "https://bzzhr.to/136a3wg8x1qd",
+        "https://megadb.net/v7kvldyinrss"
+      ],
+      "version": "v1.4.0.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Tortuga – A Pirate’s Tale Free Download (v1.2.0)",
+      "size": "4.9 GB",
+      "uploadDate": "2024-03-11T12:05:15+00:00",
+      "url": "https://megadb.net/cw84ts6pip2v",
+      "uris": [
+        "https://megadb.net/cw84ts6pip2v"
+      ],
+      "version": "v1.2.0.59274",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "WW2 Rebuilder Free Download (v1.5)",
+      "size": "35.7 GB",
+      "uploadDate": "2025-05-04T03:34:07+00:00",
+      "url": "https://1fichier.com/?o04d8seesd969tau7c20",
+      "uris": [
+        "https://1fichier.com/?o04d8seesd969tau7c20",
+        "https://www.filecrypt.cc/Container/5AC9FD71D6",
+        "https://bzzhr.to/hv2welv67wpq",
+        "https://megadb.net/zy5sxbsmbz4i"
+      ],
+      "version": "v1.5",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Surviving the Abyss Free Download (v0.1.4.9)",
+      "size": "1.6 GB",
+      "uploadDate": "2024-03-11T12:05:52+00:00",
+      "url": "https://megadb.net/x2ljhv0g163n",
+      "uris": [
+        "https://megadb.net/x2ljhv0g163n"
+      ],
+      "version": "v0.1.4.9",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Bio Prototype Free Download (v1.0.12)",
+      "size": "149 MB",
+      "uploadDate": "2024-03-11T12:04:39+00:00",
+      "url": "https://megadb.net/c5e2k6dhtoz9",
+      "uris": [
+        "https://megadb.net/c5e2k6dhtoz9"
+      ],
+      "version": "v1.0.12",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Shing! Free Download (v2.0)",
+      "size": "2.6 GB",
+      "uploadDate": "2024-03-11T12:04:32+00:00",
+      "url": "https://megadb.net/g3y5xfpk2err",
+      "uris": [
+        "https://megadb.net/g3y5xfpk2err"
+      ],
+      "version": "v2.0",
       "provider": "SteamRIP"
     },
     {
@@ -43939,91 +44036,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Hell Pie Free Download (v1.1.5)",
-      "size": "4 GB",
-      "uploadDate": "2024-03-11T13:57:47+00:00",
-      "url": "https://megadb.net/m2q3v6q858ny",
-      "uris": [
-        "https://megadb.net/m2q3v6q858ny"
-      ],
-      "version": "v1.1.5",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Battlefield 4 Premium Edition Free Download (v179547)",
-      "size": "55.8 GB",
-      "uploadDate": "2026-07-14T12:15:27+00:00",
-      "url": "https://1fichier.com/?eo5rzpvapewoyfmy69vq",
-      "uris": [
-        "https://1fichier.com/?eo5rzpvapewoyfmy69vq",
-        "https://gofile.io/d/ZC91ks",
-        "https://bzzhr.to/5fzar9zu1w1j",
-        "https://fileditchfiles.me/file.php?f=/alpha4/c78f6dc0dfb62fa49127/Battlefield-4-SteamRIP.com.rar"
-      ],
-      "version": "v179547",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Endling – Extinction is Forever Free Download (v0.16.25)",
-      "size": "2.5 GB",
-      "uploadDate": "2024-03-11T14:02:24+00:00",
-      "url": "https://megadb.net/kqpgyzcerzl6",
-      "uris": [
-        "https://megadb.net/kqpgyzcerzl6"
-      ],
-      "version": "v0.16.25",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Hazel Sky Free Download (v1.0.10)",
-      "size": "3.6 GB",
-      "uploadDate": "2024-03-11T14:02:19+00:00",
-      "url": "https://megadb.net/at12qzdqh4vs",
-      "uris": [
-        "https://megadb.net/at12qzdqh4vs"
-      ],
-      "version": "v1.0.10",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Dead Rising 3 Apocalypse Edition Free Download (Update 6/7)",
-      "size": "20.7 GB",
-      "uploadDate": "2025-01-05T23:14:29+00:00",
-      "url": "https://bzzhr.to/0do1fjls9igr",
-      "uris": [
-        "https://bzzhr.to/0do1fjls9igr",
-        "https://datanodes.to/8h5a6fuxg7ky/Dead-Rising-3-AE-SteamRIP.com.rar"
-      ],
-      "version": "vUpdate 6/7 + 4 DLCs",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Stray Free Download (v1.5#368)",
-      "size": "6.2 GB",
-      "uploadDate": "2026-05-20T21:57:06+00:00",
-      "url": "https://gofile.io/d/FmkF5V",
-      "uris": [
-        "https://gofile.io/d/FmkF5V",
-        "https://pixeldrain.com/u/wveR4Rw3",
-        "https://bzzhr.to/l4qu35mx12ff",
-        "https://megadb.net/1rhtc6f99u9c"
-      ],
-      "version": "v1.5#368 (Build 11573571)",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Clanfolk Free Download (v0.608)",
-      "size": "329 MB",
-      "uploadDate": "2026-04-28T04:36:59+00:00",
-      "url": "https://megadb.net/3q7jbrfgtbp1",
-      "uris": [
-        "https://megadb.net/3q7jbrfgtbp1",
-        "https://fileditchfiles.me/file.php?f=/alpha3/9e448c630931f021d484/Clanfolk-SteamRIP.com.rar"
-      ],
-      "version": "v0.608",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "The Elder Scrolls V: Skyrim VR Free Download (v1.4.0.15.8)",
       "size": "12.1 GB",
       "uploadDate": "2026-07-28T00:22:20+00:00",
@@ -45088,6 +45100,83 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Trackmania Turbo Free Download",
+      "size": "3.6 GB",
+      "uploadDate": "2024-03-11T14:13:19+00:00",
+      "url": "https://megadb.net/ajw497i3xlfc",
+      "uris": [
+        "https://megadb.net/ajw497i3xlfc"
+      ],
+      "version": "Build 1462109",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "DEADCRAFT Free Download",
+      "size": "4.8 GB",
+      "uploadDate": "2024-03-11T14:13:10+00:00",
+      "url": "https://megadb.net/139ecj6qpz2f",
+      "uris": [
+        "https://megadb.net/139ecj6qpz2f"
+      ],
+      "version": "Build 8383788",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "One More Island Free Download (v1.7.2)",
+      "size": "160 MB",
+      "uploadDate": "2024-03-11T14:13:05+00:00",
+      "url": "https://megadb.net/3jvncg1cie4h",
+      "uris": [
+        "https://megadb.net/3jvncg1cie4h"
+      ],
+      "version": "v1.7.2",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Furi Onnamusha Free Download (v1.7.224)",
+      "size": "2.1 GB",
+      "uploadDate": "2024-03-11T14:13:01+00:00",
+      "url": "https://megadb.net/ddqs8ur2iee3",
+      "uris": [
+        "https://megadb.net/ddqs8ur2iee3"
+      ],
+      "version": "v1.7.224",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Fire Pro Wrestling World Free Download (v2.15.2)",
+      "size": "2.8 GB",
+      "uploadDate": "2024-03-11T14:12:57+00:00",
+      "url": "https://megadb.net/93hbxe6o8jbx",
+      "uris": [
+        "https://megadb.net/93hbxe6o8jbx"
+      ],
+      "version": "v2.15.2",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Gibbon: Beyond the Trees Free Download",
+      "size": "718 MB",
+      "uploadDate": "2024-03-11T14:12:52+00:00",
+      "url": "https://megadb.net/zi9iq5zp5w5z",
+      "uris": [
+        "https://megadb.net/zi9iq5zp5w5z"
+      ],
+      "version": "Build 8729618",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Decision: Red Daze Free Download (v1.2.0.5)",
+      "size": "2.4 GB",
+      "uploadDate": "2024-03-11T14:12:45+00:00",
+      "url": "https://megadb.net/ohqsn2l9yinv",
+      "uris": [
+        "https://megadb.net/ohqsn2l9yinv"
+      ],
+      "version": "v1.2.0.5",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Neptunia x SENRAN KAGURA: Ninja Wars Free Download",
       "size": "5.8 GB",
       "uploadDate": "2024-03-11T14:12:32+00:00",
@@ -46139,87 +46228,6 @@
         "https://megadb.net/79dxo8h34v1n"
       ],
       "version": "v1.05B.77786 A",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Street Fighter V: Champion Edition Free Download (v7.011)",
-      "size": "56.6 GB",
-      "uploadDate": "2025-08-19T00:19:17+00:00",
-      "url": "https://bzzhr.to/ddm8wvisthoh",
-      "uris": [
-        "https://bzzhr.to/ddm8wvisthoh",
-        "https://datanodes.to/tpoh66agk7ta"
-      ],
-      "version": "v7.011 (Build 13173604)",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Jitsu Squad Free Download (Build 8459199)",
-      "size": "1.6 GB",
-      "uploadDate": "2024-03-11T14:50:36+00:00",
-      "url": "https://megadb.net/gahjtmkvhayy",
-      "uris": [
-        "https://megadb.net/gahjtmkvhayy"
-      ],
-      "version": "Build 8459199",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "The Walking Dead: The Telltale Definitive Series (v1.6)",
-      "size": "46.09 GB",
-      "uploadDate": "2024-12-02T19:42:32+00:00",
-      "url": "https://1fichier.com/?n1mzlcxgbz0e8mj6n9tu",
-      "uris": [
-        "https://1fichier.com/?n1mzlcxgbz0e8mj6n9tu",
-        "https://bzzhr.to/pfq127p0prpw",
-        "https://datanodes.to/63k3uo92p2qw/The-Walking-Dead-TTDS-SteamRIP.com.rar"
-      ],
-      "version": "v1.6",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Wigmund Free Download (v1.4.7)",
-      "size": "1.5 GB",
-      "uploadDate": "2026-08-24T08:16:50+00:00",
-      "url": "https://bzzhr.to/74bpbup5w0sv",
-      "uris": [
-        "https://bzzhr.to/74bpbup5w0sv",
-        "https://fileditchfiles.st/balpha8/7901d1a8490106dc92fe/Wigmund-SteamRIP.com.rar"
-      ],
-      "version": "v1.4.7",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Nightmare Reaper Free Download (v2.31.6)",
-      "size": "514 MB",
-      "uploadDate": "2024-03-11T14:50:19+00:00",
-      "url": "https://megadb.net/ml07slcss5ux",
-      "uris": [
-        "https://megadb.net/ml07slcss5ux"
-      ],
-      "version": "v2.31.6",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Smart Factory Tycoon Free Download (Build 8447138)",
-      "size": "480 MB",
-      "uploadDate": "2024-03-11T14:50:17+00:00",
-      "url": "https://megadb.net/8t9klsexcvu7",
-      "uris": [
-        "https://megadb.net/8t9klsexcvu7"
-      ],
-      "version": "Build 8447138",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Kirby and the Forgotten Land (v1.0.0 + Ryujinx/Yuzu EMUs)",
-      "size": "6 GB",
-      "uploadDate": "2024-03-11T14:50:09+00:00",
-      "url": "https://megadb.net/ne7duk752pjz",
-      "uris": [
-        "https://megadb.net/ne7duk752pjz"
-      ],
-      "version": "v1.0.0",
       "provider": "SteamRIP"
     },
     {
@@ -50852,6 +50860,90 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Super Robot Wars 30 Free Download",
+      "size": "12.85  GB",
+      "uploadDate": "2026-07-28T00:18:29+00:00",
+      "url": "https://bzzhr.to/b5699ewvx6pl",
+      "uris": [
+        "https://bzzhr.to/b5699ewvx6pl"
+      ],
+      "version": "Unknown",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Moonglow Bay Free Download (v1.0.8)",
+      "size": "777 MB",
+      "uploadDate": "2024-03-09T22:11:47+00:00",
+      "url": "https://megadb.net/4vgul8xt0w3b",
+      "uris": [
+        "https://megadb.net/4vgul8xt0w3b"
+      ],
+      "version": "v1.0.8",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Mount & Blade II: Bannerlord Free Download (v1.4.8.119303 + Co-op)",
+      "size": "71.1 GB",
+      "uploadDate": "2026-09-16T11:28:03+00:00",
+      "url": "https://gofile.io/d/aMvPDX8s",
+      "uris": [
+        "https://gofile.io/d/aMvPDX8s",
+        "https://bzzhr.to/2k0dc2mv1d2v"
+      ],
+      "version": "Build 24573425",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Smurfs – Mission Vileaf Free Download",
+      "size": "1.63 GB",
+      "uploadDate": "2024-03-09T22:11:39+00:00",
+      "url": "https://megadb.net/61jltqjszkta",
+      "uris": [
+        "https://megadb.net/61jltqjszkta"
+      ],
+      "version": "Build 7536197",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "The Elder Scrolls III: Morrowind GOTY Free Download",
+      "size": "1.29 GB",
+      "uploadDate": "2026-06-10T11:49:18+00:00",
+      "url": "https://megadb.net/d2woxgvfk7h9",
+      "uris": [
+        "https://megadb.net/d2woxgvfk7h9",
+        "https://bzzhr.to/8n4rkfgx6plh",
+        "https://fileditchfiles.me/alpha7/75e01d8d2ec461e0b7d3/The-Elder-Scrolls-III-Morrowind-GOTY-SteamRIP.com.rar"
+      ],
+      "version": "v1.6.0.1820 (Game of the Year Edition)",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "NASCAR 21: Ignition Free Download (v1.3)",
+      "size": "17.6 GB",
+      "uploadDate": "2025-09-30T11:31:54+00:00",
+      "url": "https://1fichier.com/?z94eb5bu0jewb4fb3385",
+      "uris": [
+        "https://1fichier.com/?z94eb5bu0jewb4fb3385",
+        "https://bzzhr.to/47pdu9mjf4jf"
+      ],
+      "version": "v1.3",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Sword and Fairy 7 Free Download (v2.1.0)",
+      "size": "47 GB",
+      "uploadDate": "2024-11-24T13:37:59+00:00",
+      "url": "https://1fichier.com/?bq11t7et0lstaiktnaf0",
+      "uris": [
+        "https://1fichier.com/?bq11t7et0lstaiktnaf0",
+        "https://filecrypt.co/Container/2B584977B3",
+        "https://bzzhr.to/k68pf69qvhu4",
+        "https://megadb.net/gvxi604bbn7y"
+      ],
+      "version": "v2.1.0",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "Shadow of the Tomb Raider: Definitive Edition Free Download",
       "size": "45 GB",
       "uploadDate": "2026-07-10T21:21:33+00:00",
@@ -53183,94 +53275,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Car Mechanic Simulator VR Free Download",
-      "size": "7.07 GB",
-      "uploadDate": "2026-08-25T19:37:15+00:00",
-      "url": "https://1fichier.com/?aymg36nw9n45zq89b01j",
-      "uris": [
-        "https://1fichier.com/?aymg36nw9n45zq89b01j",
-        "https://gofile.io/d/FtKTPXRf",
-        "https://megadb.net/4nttzhc39eaq",
-        "https://bzzhr.to/bnsjsb2hafvb",
-        "https://fileditchfiles.st/balpha8/15046b72e82e7b5b80ff/Car-Mechanic-Simulator-VR-Steamrip-com.rar"
-      ],
-      "version": "v1.04",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "RPG Maker MZ Free Download (v1.1.1)",
-      "size": "1.01 GB",
-      "uploadDate": "2024-03-09T21:50:44+00:00",
-      "url": "https://pixeldrain.com/u/TrMvqiXE",
-      "uris": [
-        "https://pixeldrain.com/u/TrMvqiXE",
-        "https://megadb.net/ha0qk121kdpi"
-      ],
-      "version": "v1.1.1",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Noita Free Download (Build 17130612)",
-      "size": "1.4 GB",
-      "uploadDate": "2026-09-01T22:14:01+00:00",
-      "url": "https://megadb.net/pi860tpxd1z0",
-      "uris": [
-        "https://megadb.net/pi860tpxd1z0",
-        "https://bzzhr.to/lx8a3szraepv",
-        "https://fileditchfiles.st/alpha27/b7d6619f64c0d0720428/Noita-SteamRIP.com.rar"
-      ],
-      "version": "Build 17130612",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Getting Over It with Bennett Foddy Free Download (v1.7)",
-      "size": "738 MB",
-      "uploadDate": "2026-07-10T13:40:27+00:00",
-      "url": "https://megadb.net/ahzssa8aqdb7",
-      "uris": [
-        "https://megadb.net/ahzssa8aqdb7",
-        "https://bzzhr.to/yhkamej7f5nl"
-      ],
-      "version": "v1.7",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Mafia Free Download (v1.3)",
-      "size": "2 GB",
-      "uploadDate": "2025-05-11T10:24:17+00:00",
-      "url": "https://1fichier.com/?a3o4im1otmhv360gvdwz",
-      "uris": [
-        "https://1fichier.com/?a3o4im1otmhv360gvdwz",
-        "https://bzzhr.to/ett3xxygvu5a",
-        "https://megadb.net/6xsn7ez4zhyb"
-      ],
-      "version": "v1.3",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "State of Decay: YOSE Free Download",
-      "size": "2.89 GB",
-      "uploadDate": "2025-02-07T03:43:57+00:00",
-      "url": "https://megadb.net/9hv9xw1ms2hd",
-      "uris": [
-        "https://megadb.net/9hv9xw1ms2hd",
-        "https://bzzhr.to/pusidkl87ebk"
-      ],
-      "version": "v1.0 (Update 4)",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Fruit Ninja VR Free Download",
-      "size": "281 MB",
-      "uploadDate": "2024-03-09T21:50:00+00:00",
-      "url": "https://megadb.net/k8tt4j7m7v2s",
-      "uris": [
-        "https://megadb.net/k8tt4j7m7v2s"
-      ],
-      "version": "Unknown",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "Hearts of Iron IV Free Download (Build 25205862 + Online)",
       "size": "5.6 GB",
       "uploadDate": "2026-10-04T16:39:24+00:00",
@@ -54395,6 +54399,91 @@
       "provider": "SteamRIP"
     },
     {
+      "title": "Orcs Must Die! 3 Free Download (v1.2.0.0 + Multiplayer)",
+      "size": "10.8 GB",
+      "uploadDate": "2026-07-17T21:20:24+00:00",
+      "url": "https://gofile.io/d/4IQ1Bl",
+      "uris": [
+        "https://gofile.io/d/4IQ1Bl",
+        "https://bzzhr.to/l590653vgtz3"
+      ],
+      "version": "v1.2.0.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Sonic Lost World Free Download",
+      "size": "6.79 GB",
+      "uploadDate": "2026-09-26T13:21:29+00:00",
+      "url": "https://1fichier.com/?vpukgz4qul77u5urmv6p",
+      "uris": [
+        "https://1fichier.com/?vpukgz4qul77u5urmv6p",
+        "https://filecrypt.co/Container/0FC7511FB5",
+        "https://megadb.net/09aok90juou3"
+      ],
+      "version": "Unknown",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Death’s Door Free Download (v1.1.5.1)",
+      "size": "1.71 GB",
+      "uploadDate": "2024-03-09T21:37:22+00:00",
+      "url": "https://megadb.net/mgdql1q9v6kc",
+      "uris": [
+        "https://megadb.net/mgdql1q9v6kc"
+      ],
+      "version": "v1.1.5.1",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Youtubers Life Free Download (v1.6.5)",
+      "size": "735 MB",
+      "uploadDate": "2026-04-09T16:56:56+00:00",
+      "url": "https://megadb.net/i3dg7zrc017y",
+      "uris": [
+        "https://megadb.net/i3dg7zrc017y"
+      ],
+      "version": "v1.6.5",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Darkest Dungeon Free Download (Build 27850)",
+      "size": "Unknown",
+      "uploadDate": "2026-08-24T06:11:24+00:00",
+      "url": "https://megadb.net/1efba89550447b04",
+      "uris": [
+        "https://megadb.net/1efba89550447b04",
+        "https://bzzhr.to/amd12110m2ep",
+        "https://fileditchfiles.st/beta24/7e102fced49e5c90d553/Darkest-Dungeon-SteamRIP.com.rar"
+      ],
+      "version": "v27850 (Build 24869721) – Full Version + all DLCs",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Sonic Forces Free Download (v1.04.79)",
+      "size": "16 GB",
+      "uploadDate": "2026-09-26T13:21:51+00:00",
+      "url": "https://filecrypt.co/Container/E3A28D2381",
+      "uris": [
+        "https://filecrypt.co/Container/E3A28D2381",
+        "https://bzzhr.to/226lepgjvhjo",
+        "https://megadb.net/Ga8KQbgXQAA"
+      ],
+      "version": "v1.04.79",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Rise of the Tomb Raider: 20 Year Celebration Free Download",
+      "size": "23.5 GB",
+      "uploadDate": "2026-10-10T00:50:27+00:00",
+      "url": "https://www.filecrypt.cc/Container/791C6FE3B6",
+      "uris": [
+        "https://www.filecrypt.cc/Container/791C6FE3B6",
+        "https://bzzhr.to/aqtoxxc3zd84"
+      ],
+      "version": "v1.0.1027.0 (20 Year Celebration)",
+      "provider": "SteamRIP"
+    },
+    {
       "title": "GAROU: MARK OF THE WOLVES Free Download",
       "size": "153 MB",
       "uploadDate": "2024-03-09T21:36:54+00:00",
@@ -55514,90 +55603,6 @@
         "https://megadb.net/addfa4327d982edb"
       ],
       "version": "v17.4.4",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Hollow Knight Free Download",
-      "size": "1.1 GB",
-      "uploadDate": "2026-07-25T09:18:57+00:00",
-      "url": "https://bzzhr.to/y1s232gtqz5i",
-      "uris": [
-        "https://bzzhr.to/y1s232gtqz5i"
-      ],
-      "version": "Build 22529139",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Mortal Kombat 11 Free Download (v0.384)",
-      "size": "102 GB",
-      "uploadDate": "2026-01-01T15:31:08+00:00",
-      "url": "https://bzzhr.to/kqg860gm6uqh",
-      "uris": [
-        "https://bzzhr.to/kqg860gm6uqh",
-        "https://vikingfile.com/f/RqiQdvWw7i",
-        "https://megadb.net/6du7sz4syf68"
-      ],
-      "version": "v0.384-34-CL237394",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Assetto Corsa Competizione Free Download (v1.10.3)",
-      "size": "18.3 GB",
-      "uploadDate": "2024-11-27T19:38:05+00:00",
-      "url": "https://bzzhr.to/tpbkzx8te339",
-      "uris": [
-        "https://bzzhr.to/tpbkzx8te339",
-        "https://gofile.io/d/oiocNk"
-      ],
-      "version": "v1.10.3",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Wolfenstein Free Download (v1.2 + 2009)",
-      "size": "5.5 GB",
-      "uploadDate": "2024-12-23T10:06:47+00:00",
-      "url": "https://megadb.net/t76z549iyhfx",
-      "uris": [
-        "https://megadb.net/t76z549iyhfx",
-        "https://bzzhr.to/ewillksvhalb"
-      ],
-      "version": "v1.2",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "LEGO Builder’s Journey Free Download (v3.0.3)",
-      "size": "1 GB",
-      "uploadDate": "2026-09-28T12:53:50+00:00",
-      "url": "https://megadb.net/u7fdixlel86q",
-      "uris": [
-        "https://megadb.net/u7fdixlel86q"
-      ],
-      "version": "v3.0.3",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Cyberpunk 2077 Free Download (v2.31)",
-      "size": "89.1 GB",
-      "uploadDate": "2026-10-08T23:34:42+00:00",
-      "url": "https://bzzhr.to/u33dxmmaozb6",
-      "uris": [
-        "https://bzzhr.to/u33dxmmaozb6",
-        "https://www.filecrypt.cc/Container/7F079FBE19",
-        "https://fileditchfiles.me/file.php?f=/alpha4/0e9534e868bfa1f65ed9/Cbpunk-2ksvenseven-SteamRIP.com.rar",
-        "https://bzzhr.to/i1vc25zpcf17"
-      ],
-      "version": "v2.31",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Broforce Free Download (v3148)",
-      "size": "447 MB",
-      "uploadDate": "2024-03-09T21:02:39+00:00",
-      "url": "https://megadb.net/ikf63riu20uk",
-      "uris": [
-        "https://megadb.net/ikf63riu20uk"
-      ],
-      "version": "v3148",
       "provider": "SteamRIP"
     },
     {
