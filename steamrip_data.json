@@ -1,7 +1,19 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-13T22:43:45+00:00",
+  "last_updated": "2026-10-14T04:51:01+00:00",
   "games": [
+    {
+      "title": "Total War: SHOGUN 2 – Complete Edition Free Download",
+      "size": "45.9 GB",
+      "uploadDate": "2026-10-14T02:58:34+00:00",
+      "url": "https://bzzhr.to/9mcsp84djaox",
+      "uris": [
+        "https://bzzhr.to/9mcsp84djaox",
+        "https://fileditchfiles.st/balpha30/45f336d84812c920dc7f/Total-War-SHOGUN-2-CE-SteamRIP.com.rar"
+      ],
+      "version": "Build 25810990",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Valor Mortis Free Download",
       "size": "40.1 GB",
