@@ -1,7 +1,20 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-14T21:40:41+00:00",
+  "last_updated": "2026-10-15T04:35:47+00:00",
   "games": [
+    {
+      "title": "Hubert Free Download",
+      "size": "12 GB",
+      "uploadDate": "2026-10-14T21:58:18+00:00",
+      "url": "https://gofile.io/d/vcy3uMOq",
+      "uris": [
+        "https://gofile.io/d/vcy3uMOq",
+        "https://bzzhr.to/t1ro7b21uust",
+        "https://fileditchfiles.st/alpha37/ed8f178529548249de65/Hubert-SteamRIP.com.rar"
+      ],
+      "version": "Build 25934126",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Allogloom Free Download",
       "size": "6.1 GB",
@@ -6472,9 +6485,10 @@
     {
       "title": "Beholder: Conductor Free Download",
       "size": "462 MB",
-      "uploadDate": "2026-07-27T08:04:07+00:00",
-      "url": "https://bzzhr.to/xfchzwtejkes",
+      "uploadDate": "2026-10-15T01:17:50+00:00",
+      "url": "https://megadb.net/5b34299635c092f0",
       "uris": [
+        "https://megadb.net/5b34299635c092f0",
         "https://bzzhr.to/xfchzwtejkes"
       ],
       "version": "v1.0.4.293",
@@ -38273,14 +38287,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Showgunners Free Download (v1.1.0)",
-      "size": "8.9 GB",
-      "uploadDate": "2024-03-10T17:07:15+00:00",
-      "url": "https://megadb.net/finwiug2x2b8",
+      "title": "Showgunners Free Download (v1.1.2)",
+      "size": "8.97 GB",
+      "uploadDate": "2026-10-14T23:18:50+00:00",
+      "url": "https://bzzhr.to/nx01kbweqmhc",
       "uris": [
-        "https://megadb.net/finwiug2x2b8"
+        "https://bzzhr.to/nx01kbweqmhc",
+        "https://fileditchfiles.st/alpha37/8fbdb7a0733fb8a0ad3b/Showgunners-SteamRIP.com.rar"
       ],
-      "version": "v1.1.0.53480",
+      "version": "v1.1.2.58602 (Build 12828238)",
       "provider": "SteamRIP"
     },
     {
