@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-16T11:20:43+00:00",
+  "last_updated": "2026-10-16T16:38:48+00:00",
   "games": [
     {
       "title": "Enshrouded Free Download (v1.0)",
@@ -43995,14 +43995,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "PlateUp! Free Download (Build 22679197 + Co-op)",
-      "size": "432 MB",
-      "uploadDate": "2026-04-18T02:35:02+00:00",
-      "url": "https://megadb.net/4olege2qm8j2",
+      "title": "PlateUp! Free Download (Build 25882873 + Co-op)",
+      "size": "443 MB",
+      "uploadDate": "2026-10-16T13:07:29+00:00",
+      "url": "https://megadb.net/d26ab928b34a7a4d",
       "uris": [
-        "https://megadb.net/4olege2qm8j2"
+        "https://megadb.net/d26ab928b34a7a4d"
       ],
-      "version": "Build 22679197",
+      "version": "Build 25882873",
       "provider": "SteamRIP"
     },
     {
@@ -56878,14 +56878,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Bloons TD 6 Free Download (v56.3 + Co-op)",
-      "size": "2.1 GB",
-      "uploadDate": "2026-08-22T12:43:37+00:00",
-      "url": "https://bzzhr.to/u5unkrwx4wf3",
+      "title": "Bloons TD 6 Free Download (v57.2 + Co-op)",
+      "size": "2.07 GB",
+      "uploadDate": "2026-10-16T13:36:22+00:00",
+      "url": "https://bzzhr.to/frll3qaafaah",
       "uris": [
-        "https://bzzhr.to/u5unkrwx4wf3"
+        "https://bzzhr.to/frll3qaafaah",
+        "https://itsfileditchfiles.st/balpha32/e7e9426e4b2bf61471db/Bloons-TD-6-SteamRIP.com.rar"
       ],
-      "version": "Build 24829026",
+      "version": "v57.2.12199",
       "provider": "SteamRIP"
     },
     {
