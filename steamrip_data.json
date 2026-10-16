@@ -1,7 +1,20 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-16T04:29:18+00:00",
+  "last_updated": "2026-10-16T11:20:43+00:00",
   "games": [
+    {
+      "title": "Enshrouded Free Download (v1.0)",
+      "size": "27.7 GB",
+      "uploadDate": "2026-10-16T05:42:38+00:00",
+      "url": "https://gofile.io/d/xPAyGElm",
+      "uris": [
+        "https://gofile.io/d/xPAyGElm",
+        "https://bzzhr.to/38viwdkp863x",
+        "https://itsfileditchfiles.st/balpha31/22d33db51c19621cf09e/Enshrouded-SteamRIP.com.rar"
+      ],
+      "version": "Build 25966634",
+      "provider": "SteamRIP"
+    },
     {
       "title": "FIRE AND ASHES Free Download",
       "size": "26.1 GB",
@@ -24217,16 +24230,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "inZOI Free Download (v20260904.15051.W)",
-      "size": "35.1 GB",
-      "uploadDate": "2026-09-08T05:23:46+00:00",
-      "url": "https://gofile.io/d/X7kpVsB4",
+      "title": "inZOI Free Download (v20261013.16166.W)",
+      "size": "35.6 GB",
+      "uploadDate": "2026-10-16T08:24:00+00:00",
+      "url": "https://bzzhr.to/0d1c36ysiqj8",
       "uris": [
-        "https://gofile.io/d/X7kpVsB4",
-        "https://bzzhr.to/67g20znk9tqn",
-        "https://fileditchfiles.st/balpha16/38047795a819d25339da/inZOI-SteamRIP.com.rar"
+        "https://bzzhr.to/0d1c36ysiqj8",
+        "https://itsfileditchfiles.st/balpha32/af978795c2f9352723da/inZOI-SteamRIP.com.rar"
       ],
-      "version": "v20260904.15051.W (Build 25124355)",
+      "version": "v20261013.16166.W (Build 25922370)",
       "provider": "SteamRIP"
     },
     {
@@ -33644,19 +33656,6 @@
         "https://megadb.net/podihkvwezu7"
       ],
       "version": "v1.1.0.07",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Enshrouded Free Download",
-      "size": "27.7 GB",
-      "uploadDate": "2026-10-15T22:34:44+00:00",
-      "url": "https://gofile.io/d/xPAyGElm",
-      "uris": [
-        "https://gofile.io/d/xPAyGElm",
-        "https://bzzhr.to/38viwdkp863x",
-        "https://itsfileditchfiles.st/balpha31/22d33db51c19621cf09e/Enshrouded-SteamRIP.com.rar"
-      ],
-      "version": "Build 25966634",
       "provider": "SteamRIP"
     },
     {
@@ -56926,14 +56925,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "American Truck Simulator Free Download (v1.61.3.1s)",
-      "size": "26.1 GB",
-      "uploadDate": "2026-10-01T18:54:48+00:00",
-      "url": "https://bzzhr.to/kun36ffx1i6p",
+      "title": "American Truck Simulator Free Download (v1.61.3.18s)",
+      "size": "26.2 GB",
+      "uploadDate": "2026-10-16T04:48:31+00:00",
+      "url": "https://bzzhr.to/re6c1621ilc4",
       "uris": [
-        "https://bzzhr.to/kun36ffx1i6p"
+        "https://bzzhr.to/re6c1621ilc4"
       ],
-      "version": "v1.61.3.1s",
+      "version": "v1.61.3.18s",
       "provider": "SteamRIP"
     },
     {
@@ -57330,14 +57329,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Euro Truck Simulator 2 Free Download (v1.61.1.1s)",
-      "size": "35.1 GB",
-      "uploadDate": "2026-09-24T17:19:03+00:00",
-      "url": "https://bzzhr.to/ieytck5glw6u",
+      "title": "Euro Truck Simulator 2 Free Download (v1.61.1.9s)",
+      "size": "35.2 GB",
+      "uploadDate": "2026-10-16T04:50:07+00:00",
+      "url": "https://bzzhr.to/65fw33nftxd9",
       "uris": [
-        "https://bzzhr.to/ieytck5glw6u"
+        "https://bzzhr.to/65fw33nftxd9"
       ],
-      "version": "v1.61.1.1s (Build 25482642)",
+      "version": "v1.61.1.9s (Build 25904183)",
       "provider": "SteamRIP"
     },
     {
