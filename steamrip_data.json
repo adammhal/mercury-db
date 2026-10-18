@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-17T04:23:17+00:00",
+  "last_updated": "2026-10-18T11:02:37+00:00",
   "games": [
     {
       "title": "Tenebris Somnia Free Download",
@@ -1041,15 +1041,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Silver Pines Free Download",
-      "size": "5.2 GB",
-      "uploadDate": "2026-10-08T18:39:33+00:00",
-      "url": "https://bzzhr.to/g741t4u0ebl4",
+      "title": "Silver Pines Free Download (Build 25964535)",
+      "size": "4.06 GB",
+      "uploadDate": "2026-10-18T09:51:57+00:00",
+      "url": "https://bzzhr.to/hq6hakewgp58",
       "uris": [
-        "https://bzzhr.to/g741t4u0ebl4",
-        "https://fileditchfiles.st/balpha28/ad123ff1a9c080013c22/Silver.Pines-SteamRIP.com.rar"
+        "https://bzzhr.to/hq6hakewgp58",
+        "https://itsfileditchfiles.st/balpha33/ed67f5fe1e5265a1ca22/Silver-Pines-SteamRIP.com.rar"
       ],
-      "version": "Build 25806663",
+      "version": "Build 25964535",
       "provider": "SteamRIP"
     },
     {
@@ -3944,15 +3944,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Valheim Free Download (v1.0.17 + Co-op)",
+      "title": "Valheim Free Download (v1.0.20 + Co-op)",
       "size": "5.9 GB",
-      "uploadDate": "2026-10-06T17:04:44+00:00",
-      "url": "https://bzzhr.to/l4ac2dzsl49q",
+      "uploadDate": "2026-10-18T09:32:54+00:00",
+      "url": "https://bzzhr.to/yreym6ylnykr",
       "uris": [
-        "https://bzzhr.to/l4ac2dzsl49q",
-        "https://gofile.io/d/ZHGKFDEW"
+        "https://bzzhr.to/yreym6ylnykr",
+        "https://itsfileditchfiles.st/balpha33/1812b028dc78a0465178/Valheim-SteamRIP.com.rar"
       ],
-      "version": "v1.0.17",
+      "version": "v1.0.20",
       "provider": "SteamRIP"
     },
     {
@@ -46268,14 +46268,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Mr. Prepper Free Download (v1.43i)",
-      "size": "3.2 GB",
-      "uploadDate": "2026-08-23T15:06:39+00:00",
-      "url": "https://megadb.net/b3676e90d29193a5",
+      "title": "Mr. Prepper Free Download (v1.44b)",
+      "size": "3.4 GB",
+      "uploadDate": "2026-10-18T09:23:44+00:00",
+      "url": "https://megadb.net/30d4a5d5665add13",
       "uris": [
-        "https://megadb.net/b3676e90d29193a5"
+        "https://megadb.net/30d4a5d5665add13"
       ],
-      "version": "v1.43i",
+      "version": "v1.44b",
       "provider": "SteamRIP"
     },
     {
