@@ -1,7 +1,31 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-20T11:33:33+00:00",
+  "last_updated": "2026-10-21T11:45:54+00:00",
   "games": [
+    {
+      "title": "Mycopunk Free Download (v1.0)",
+      "size": "8.3 GB",
+      "uploadDate": "2026-10-21T09:54:10+00:00",
+      "url": "https://bzzhr.to/zkby3p0ji9s3",
+      "uris": [
+        "https://bzzhr.to/zkby3p0ji9s3",
+        "https://itsfileditchfiles.st/alpha39/e30d57e2ffeb41968cca/Mycopunk-SteamRIP.com.rar"
+      ],
+      "version": "v1.0",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Scam With Your Friends Free Download (v0.1.82 + Co-op)",
+      "size": "3.1 GB",
+      "uploadDate": "2026-10-21T07:57:17+00:00",
+      "url": "https://itsfileditchfiles.st/alpha39/fd79024ef6fd848378e5/Scam-With-Your-Friends-SteamRIP.com.rar",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha39/fd79024ef6fd848378e5/Scam-With-Your-Friends-SteamRIP.com.rar",
+        "https://megadb.net/9e98fe20eed94845"
+      ],
+      "version": "Build 26097532",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles Free Download",
       "size": "24.6 GB",
@@ -189,16 +213,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Enshrouded Free Download (v1.0)",
-      "size": "27.7 GB",
-      "uploadDate": "2026-10-16T05:42:38+00:00",
-      "url": "https://gofile.io/d/xPAyGElm",
+      "title": "Enshrouded Free Download (v1.0.0.2 + Co-op)",
+      "size": "29.6 GB",
+      "uploadDate": "2026-10-21T10:02:21+00:00",
+      "url": "https://bzzhr.to/hj72jlaeuvfu",
       "uris": [
-        "https://gofile.io/d/xPAyGElm",
-        "https://bzzhr.to/38viwdkp863x",
-        "https://itsfileditchfiles.st/balpha31/22d33db51c19621cf09e/Enshrouded-SteamRIP.com.rar"
+        "https://bzzhr.to/hj72jlaeuvfu",
+        "https://itsfileditchfiles.st/alpha39/a26c16ba0ca6f197b65c/Enshrouded-SteamRIP.com.rar"
       ],
-      "version": "Build 25966634",
+      "version": "v1.0.0.2",
       "provider": "SteamRIP"
     },
     {
@@ -17093,18 +17116,6 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Mycopunk Free Download (v1.6.6 + Co-op)",
-      "size": "5.3 GB",
-      "uploadDate": "2026-01-21T03:28:07+00:00",
-      "url": "https://gofile.io/d/1DKmAQ",
-      "uris": [
-        "https://gofile.io/d/1DKmAQ",
-        "https://megadb.net/3del2g8sov7m"
-      ],
-      "version": "v1.6.6",
-      "provider": "SteamRIP"
-    },
-    {
       "title": "Storebound Free Download (v0.7.3 + Co-op)",
       "size": "1.3 GB",
       "uploadDate": "2025-11-24T20:44:51+00:00",
@@ -27480,15 +27491,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Dragon’s Dogma 2 Free Download (v4.0.0.0)",
-      "size": "89.6 GB",
-      "uploadDate": "2026-10-10T03:43:53+00:00",
-      "url": "https://bzzhr.to/u8jvqa4oh0h1",
+      "title": "Dragon’s Dogma 2 Free Download (v4.1.0.0)",
+      "size": "89.7 GB",
+      "uploadDate": "2026-10-21T11:04:24+00:00",
+      "url": "https://bzzhr.to/g5h88a157qr3",
       "uris": [
-        "https://bzzhr.to/u8jvqa4oh0h1",
-        "https://fileditchfiles.st/balpha28/5f01c38d242adf27f8d6/Dragon-Dogma2-SteamRIP.com.rar"
+        "https://bzzhr.to/g5h88a157qr3"
       ],
-      "version": "v4.0.0.0",
+      "version": "v4.1.0.0",
       "provider": "SteamRIP"
     },
     {
