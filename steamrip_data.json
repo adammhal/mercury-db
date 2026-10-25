@@ -1,7 +1,19 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-25T11:24:07+00:00",
+  "last_updated": "2026-10-25T16:19:13+00:00",
   "games": [
+    {
+      "title": "ARK: Survival Evolved Free Download",
+      "size": "140.2 GB",
+      "uploadDate": "2026-10-25T16:05:08+00:00",
+      "url": "https://bzzhr.to/9sj3d9buq569",
+      "uris": [
+        "https://bzzhr.to/9sj3d9buq569",
+        "https://itsfileditchfiles.st/balpha37/09bbe6e85727a8713940/ARK-Survival.Evolved-SteamRIP.com.rar"
+      ],
+      "version": "Build 21291776",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Moon Sweepers Free Download (Build 26179663 + Co-op)",
       "size": "489.6 MB",
@@ -22501,15 +22513,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "PEAK Free Download (v2.6.b + Co-op)",
-      "size": "1.42 GB",
-      "uploadDate": "2026-10-06T19:23:41+00:00",
-      "url": "https://gofile.io/d/8rGT8VHc",
+      "title": "PEAK Free Download (v3.0.1 + Co-op)",
+      "size": "11.3 GB",
+      "uploadDate": "2026-10-25T12:56:53+00:00",
+      "url": "https://bzzhr.to/fjtkwnagb9b3",
       "uris": [
-        "https://gofile.io/d/8rGT8VHc",
-        "https://bzzhr.to/wcu6rtdpy5kf"
+        "https://bzzhr.to/fjtkwnagb9b3",
+        "https://itsfileditchfiles.st/balpha37/440c2eabdc6f3c894b52/PEAK-SteamRIP.com.rar"
       ],
-      "version": "v2.6.b + Co-op",
+      "version": "v3.0.1 + Co-op",
       "provider": "SteamRIP"
     },
     {
