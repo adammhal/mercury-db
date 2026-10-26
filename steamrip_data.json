@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-26T12:56:58+00:00",
+  "last_updated": "2026-10-26T22:40:02+00:00",
   "games": [
     {
       "title": "ARK: Survival Evolved Free Download",
@@ -23763,15 +23763,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "MEMORIAPOLIS Free Download",
-      "size": "6.3 GB",
-      "uploadDate": "2026-10-08T21:46:15+00:00",
-      "url": "https://bzzhr.to/vdgqrzrd3323",
+      "title": "MEMORIAPOLIS Free Download (v1.7.69)",
+      "size": "3.19 GB",
+      "uploadDate": "2026-10-26T17:18:31+00:00",
+      "url": "https://megadb.net/9a52ef8964e20d24",
       "uris": [
-        "https://bzzhr.to/vdgqrzrd3323",
-        "https://fileditchfiles.st/balpha28/b8e8576bce57e256dd44/MEMORIAPOLIS-SteamRIP.com.rar"
+        "https://megadb.net/9a52ef8964e20d24"
       ],
-      "version": "Build 24408834",
+      "version": "v1.7.69",
       "provider": "SteamRIP"
     },
     {
@@ -35571,10 +35570,11 @@
     {
       "title": "Alan Wake 2 Free Download (v1.2.11)",
       "size": "98.1 GB",
-      "uploadDate": "2026-10-26T11:38:54+00:00",
+      "uploadDate": "2026-10-26T15:17:12+00:00",
       "url": "https://bzzhr.to/sxnda7b97920",
       "uris": [
-        "https://bzzhr.to/sxnda7b97920"
+        "https://bzzhr.to/sxnda7b97920",
+        "https://itsfileditchfiles.st/balpha37/3f59f598c568fd0d5154/Alan-Wake-2-SteamRIP.com.rar"
       ],
       "version": "v1.2.11",
       "provider": "SteamRIP"
