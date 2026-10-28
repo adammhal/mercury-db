@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-27T22:12:25+00:00",
+  "last_updated": "2026-10-28T05:37:44+00:00",
   "games": [
     {
       "title": "You Are Empty: Absolute Edition Free Download",
@@ -175,19 +175,6 @@
         "https://megadb.net/4014e5c933866e84"
       ],
       "version": "v1.0.35",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "ARK: Survival Evolved Free Download",
-      "size": "140.2 GB",
-      "uploadDate": "2026-10-25T19:28:33+00:00",
-      "url": "https://gofile.io/d/vk4PrrB1",
-      "uris": [
-        "https://gofile.io/d/vk4PrrB1",
-        "https://bzzhr.to/9sj3d9buq569",
-        "https://itsfileditchfiles.st/balpha37/09bbe6e85727a8713940/ARK-Survival.Evolved-SteamRIP.com.rar"
-      ],
-      "version": "Build 21291776",
       "provider": "SteamRIP"
     },
     {
@@ -52083,13 +52070,11 @@
     {
       "title": "Mafia II: Definitive Edition Free Download (Update 1)",
       "size": "34.4 GB",
-      "uploadDate": "2025-02-23T09:17:16+00:00",
-      "url": "https://1fichier.com/?xvl1v2eyb8tkm75un81d",
+      "uploadDate": "2026-10-28T05:29:22+00:00",
+      "url": "https://www.filecrypt.cc/Container/AC69E83099",
       "uris": [
-        "https://1fichier.com/?xvl1v2eyb8tkm75un81d",
         "https://www.filecrypt.cc/Container/AC69E83099",
-        "https://bzzhr.to/thzpyk8aotl2",
-        "https://datanodes.to/y1mxdf2qnmr4/Mafia-II-DE-SteamRIP.com.rar"
+        "https://bzzhr.to/thzpyk8aotl2"
       ],
       "version": "Update 1",
       "provider": "SteamRIP"
@@ -56950,15 +56935,16 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "ARK Survival Evolved Ultimate Survivor Free Download (v360.1)",
-      "size": "122 GB",
-      "uploadDate": "2026-04-26T21:05:52+00:00",
-      "url": "https://www.filecrypt.cc/Container/D006A85F0F",
+      "title": "ARK Survival Evolved Ultimate Survivor Free Download",
+      "size": "140.2 GB",
+      "uploadDate": "2026-10-28T05:05:28+00:00",
+      "url": "https://gofile.io/d/vk4PrrB1",
       "uris": [
-        "https://www.filecrypt.cc/Container/D006A85F0F",
-        "https://bzzhr.to/kbm2dupgc190"
+        "https://gofile.io/d/vk4PrrB1",
+        "https://bzzhr.to/9sj3d9buq569",
+        "https://itsfileditchfiles.st/balpha37/09bbe6e85727a8713940/ARK-Survival.Evolved-SteamRIP.com.rar"
       ],
-      "version": "v360.1 + 19 DLCs/Bonuses",
+      "version": "Build 21291776",
       "provider": "SteamRIP"
     },
     {
