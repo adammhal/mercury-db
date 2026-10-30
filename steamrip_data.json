@@ -1,7 +1,18 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-10-30T05:44:02+00:00",
+  "last_updated": "2026-10-30T22:17:52+00:00",
   "games": [
+    {
+      "title": "The Jackbox Party Pack 12 Free Download",
+      "size": "1.07 GB",
+      "uploadDate": "2026-10-30T17:48:12+00:00",
+      "url": "https://megadb.net/26c54ed5ce41c561",
+      "uris": [
+        "https://megadb.net/26c54ed5ce41c561"
+      ],
+      "version": "Build 25885498",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Ecstatica II Free Download",
       "size": "18.1 GB",
@@ -91,11 +102,12 @@
     },
     {
       "title": "The Wolf Among Us Remastered Free Download",
-      "size": "3.6 GB",
-      "uploadDate": "2026-10-29T14:24:39+00:00",
+      "size": "16.9 GB",
+      "uploadDate": "2026-10-30T18:13:38+00:00",
       "url": "https://itsfileditchfiles.st/balpha39/a573b7a466c9ea21c2e3/The-Wolf-Among-Us-R-SteamRIP.com.rar",
       "uris": [
-        "https://itsfileditchfiles.st/balpha39/a573b7a466c9ea21c2e3/The-Wolf-Among-Us-R-SteamRIP.com.rar"
+        "https://itsfileditchfiles.st/balpha39/a573b7a466c9ea21c2e3/The-Wolf-Among-Us-R-SteamRIP.com.rar",
+        "https://bzzhr.to/ne7981rf6uia"
       ],
       "version": "Build 25961017",
       "provider": "SteamRIP"
@@ -11436,15 +11448,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "MECCHA CHAMELEON Free Download (v4.1.1 + Multiplayer)",
-      "size": "3.1 GB",
-      "uploadDate": "2026-09-17T18:19:57+00:00",
-      "url": "https://gofile.io/d/4DeV7DAc",
+      "title": "MECCHA CHAMELEON Free Download (v4.2.0 + Multiplayer)",
+      "size": "3.3 GB",
+      "uploadDate": "2026-10-30T14:12:44+00:00",
+      "url": "https://itsfileditchfiles.st/balpha39/269ac2a35e4a4607ee29/MECCH-CHAMELEON-SteamRIP.com.rar",
       "uris": [
-        "https://gofile.io/d/4DeV7DAc",
-        "https://bzzhr.to/6tdpvv4u6h2e"
+        "https://itsfileditchfiles.st/balpha39/269ac2a35e4a4607ee29/MECCH-CHAMELEON-SteamRIP.com.rar",
+        "https://bzzhr.to/s3eit4pfzfvh"
       ],
-      "version": "v4.1.1 (Build 25293176)",
+      "version": "v4.2.0 (Build 25924269)",
       "provider": "SteamRIP"
     },
     {
@@ -11460,16 +11472,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "007 First Light Free Download",
+      "title": "007 First Light Free Download (v1.3.1)",
       "size": "50.1 GB",
-      "uploadDate": "2026-10-04T09:43:51+00:00",
-      "url": "https://gofile.io/d/jFWulH88",
+      "uploadDate": "2026-10-30T17:43:33+00:00",
+      "url": "https://itsfileditchfiles.st/balpha39/fa64b221881aa4d09a7c/007-First-Light-SteamRIP.com.rar",
       "uris": [
-        "https://gofile.io/d/jFWulH88",
-        "https://bzzhr.to/qlf46eenmnq1",
-        "https://fileditchfiles.st/alpha34/dcfc0732373b848011da/007.First.Light-SteamRIP.com.rar"
+        "https://itsfileditchfiles.st/balpha39/fa64b221881aa4d09a7c/007-First-Light-SteamRIP.com.rar"
       ],
-      "version": "v1.3.0",
+      "version": "v1.3.1",
       "provider": "SteamRIP"
     },
     {
@@ -11965,14 +11975,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Town to City Free Download (v1.0.4)",
+      "title": "Town to City Free Download (v1.1)",
       "size": "2.8 GB",
-      "uploadDate": "2026-08-06T09:09:45+00:00",
-      "url": "https://megadb.net/72ea99c55f395984",
+      "uploadDate": "2026-10-30T14:29:47+00:00",
+      "url": "https://megadb.net/0cac45013bf1e5ec",
       "uris": [
-        "https://megadb.net/72ea99c55f395984"
+        "https://megadb.net/0cac45013bf1e5ec"
       ],
-      "version": "v1.0.4",
+      "version": "v1.1",
       "provider": "SteamRIP"
     },
     {
@@ -18175,9 +18185,9 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Europa Universalis V Free Download (v1.4.5 + Multiplayer)",
+      "title": "Europa Universalis V Free Download (v1.4.5)",
       "size": "8.4 GB",
-      "uploadDate": "2026-10-29T16:45:08+00:00",
+      "uploadDate": "2026-10-30T13:46:54+00:00",
       "url": "https://itsfileditchfiles.st/balpha39/3c37dffb0dd4627b0ae4/Europa-Universalis-IV-SteamRIP.com.rar",
       "uris": [
         "https://itsfileditchfiles.st/balpha39/3c37dffb0dd4627b0ae4/Europa-Universalis-IV-SteamRIP.com.rar",
@@ -25711,15 +25721,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "R.E.P.O. Free Download (Build 23363152 + Co-op)",
-      "size": "577.2 MB",
-      "uploadDate": "2026-09-20T08:51:10+00:00",
-      "url": "https://gofile.io/d/lxfGQ59S",
+      "title": "R.E.P.O. Free Download (v0.5.0)",
+      "size": "976 MB",
+      "uploadDate": "2026-10-30T14:01:19+00:00",
+      "url": "https://itsfileditchfiles.st/balpha39/2e8df499fd9b8a955f3d/REPO-SteamRIP.com.rar",
       "uris": [
-        "https://gofile.io/d/lxfGQ59S",
-        "https://bzzhr.to/ppkd7sp94o5f"
+        "https://itsfileditchfiles.st/balpha39/2e8df499fd9b8a955f3d/REPO-SteamRIP.com.rar",
+        "https://megadb.net/4d74a683679e522e"
       ],
-      "version": "Build 23363152",
+      "version": "Build 26294889",
       "provider": "SteamRIP"
     },
     {
@@ -57613,15 +57623,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Bloons TD 6 Free Download (v57.2 + Co-op)",
+      "title": "Bloons TD 6 Free Download (v57.4 + Co-op)",
       "size": "2.07 GB",
-      "uploadDate": "2026-10-16T13:36:22+00:00",
-      "url": "https://bzzhr.to/frll3qaafaah",
+      "uploadDate": "2026-10-30T14:33:37+00:00",
+      "url": "https://bzzhr.to/gs2vk7p5vvb7",
       "uris": [
-        "https://bzzhr.to/frll3qaafaah",
-        "https://itsfileditchfiles.st/balpha32/e7e9426e4b2bf61471db/Bloons-TD-6-SteamRIP.com.rar"
+        "https://bzzhr.to/gs2vk7p5vvb7",
+        "https://itsfileditchfiles.st/balpha39/d278531a80903584c0ad/Bloons-TD-6-SteamRIP.com.rar"
       ],
-      "version": "v57.2.12199",
+      "version": "v57.4.12224",
       "provider": "SteamRIP"
     },
     {
