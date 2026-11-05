@@ -1,7 +1,30 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-04T23:40:08+00:00",
+  "last_updated": "2026-11-05T19:56:19+00:00",
   "games": [
+    {
+      "title": "Potato Please Free Download (v1.0.2)",
+      "size": "917 MB",
+      "uploadDate": "2026-11-05T16:15:39+00:00",
+      "url": "https://megadb.net/49f6e41d8259223c",
+      "uris": [
+        "https://megadb.net/49f6e41d8259223c"
+      ],
+      "version": "Build 26450088",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Nomad Drive Free Download (v1.0.1)",
+      "size": "2.3 GB",
+      "uploadDate": "2026-11-05T15:51:02+00:00",
+      "url": "https://itsfileditchfiles.st/alpha41/973f85d5aca6a7054040/Nomad-Drive-SteamRIP.com.rar",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha41/973f85d5aca6a7054040/Nomad-Drive-SteamRIP.com.rar",
+        "https://megadb.net/9defd143e494de2c"
+      ],
+      "version": "v1.0.1",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Lightyear Frontier Free Download (v1.0)",
       "size": "4.6 GB",
@@ -25943,14 +25966,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "R.E.P.O. Free Download (v0.5.0 + Co-op)",
+      "title": "R.E.P.O. Free Download (v0.5.1 + Co-op)",
       "size": "1 GB",
-      "uploadDate": "2026-11-04T16:28:42+00:00",
-      "url": "https://bzzhr.to/mrlopchbdp1n",
+      "uploadDate": "2026-11-05T15:20:26+00:00",
+      "url": "https://itsfileditchfiles.st/alpha41/8f1dc0ea41e18aa0dc38/REPO-SteamRIP.com.rar",
       "uris": [
-        "https://bzzhr.to/mrlopchbdp1n"
+        "https://itsfileditchfiles.st/alpha41/8f1dc0ea41e18aa0dc38/REPO-SteamRIP.com.rar"
       ],
-      "version": "Build 26294889",
+      "version": "v0.5.1",
       "provider": "SteamRIP"
     },
     {
@@ -28421,16 +28444,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Farming Simulator 25 Free Download (Build 25599113 + Co-op)",
+      "title": "Farming Simulator 25 Free Download (v1.25.1.0 + Co-op)",
       "size": "32 GB",
-      "uploadDate": "2026-10-03T13:10:24+00:00",
-      "url": "https://gofile.io/d/U4YA0jFF",
+      "uploadDate": "2026-11-05T15:48:08+00:00",
+      "url": "https://itsfileditchfiles.st/alpha41/4c09d90e8e0cc76a4e96/Farming-Sim-25-SteamRIP.com.rar",
       "uris": [
-        "https://gofile.io/d/U4YA0jFF",
-        "https://bzzhr.to/zrpiczvcfgds",
-        "https://fileditchfiles.st/alpha33/b534fc40cd5bc653e4df/Farming.Simulator.25-SteamRIP.com.rar"
+        "https://itsfileditchfiles.st/alpha41/4c09d90e8e0cc76a4e96/Farming-Sim-25-SteamRIP.com.rar"
       ],
-      "version": "Build 25599113",
+      "version": "v1.25.1.0",
       "provider": "SteamRIP"
     },
     {
