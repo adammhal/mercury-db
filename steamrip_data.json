@@ -1,7 +1,29 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-05T19:56:19+00:00",
+  "last_updated": "2026-11-06T19:23:22+00:00",
   "games": [
+    {
+      "title": "Hull Rupture Free Download",
+      "size": "453 MB",
+      "uploadDate": "2026-11-06T14:28:14+00:00",
+      "url": "https://megadb.net/235fbe4f4789793f",
+      "uris": [
+        "https://megadb.net/235fbe4f4789793f"
+      ],
+      "version": "Build 26467789",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Can ‘Em All Free Download",
+      "size": "355 MB",
+      "uploadDate": "2026-11-06T14:18:55+00:00",
+      "url": "https://megadb.net/5ccadcf3bd4b7e19",
+      "uris": [
+        "https://megadb.net/5ccadcf3bd4b7e19"
+      ],
+      "version": "Build 26330345",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Potato Please Free Download (v1.0.2)",
       "size": "917 MB",
@@ -5973,14 +5995,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Mortal Shell II Free Download (v93241+1511)",
+      "title": "Mortal Shell II Free Download (v98314+1943)",
       "size": "66.1 GB",
-      "uploadDate": "2026-09-27T16:29:13+00:00",
-      "url": "https://bzzhr.to/dde7sdznr7b9",
+      "uploadDate": "2026-11-06T15:29:26+00:00",
+      "url": "https://itsfileditchfiles.st/balpha43/53cef68f57a419155442/Mortal-Shell2-SteamRIP.com.rar",
       "uris": [
-        "https://bzzhr.to/dde7sdznr7b9"
+        "https://itsfileditchfiles.st/balpha43/53cef68f57a419155442/Mortal-Shell2-SteamRIP.com.rar"
       ],
-      "version": "v93241+1511 (Build 25478144)",
+      "version": "v98314+1943 (Build 26315250)",
       "provider": "SteamRIP"
     },
     {
@@ -43392,15 +43414,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Victoria 3 Free Download (v1.13.6)",
-      "size": "10.5 GB",
-      "uploadDate": "2026-05-24T08:39:57+00:00",
-      "url": "https://gofile.io/d/pbaDLZ",
+      "title": "Victoria 3 Free Download (v1.15.0)",
+      "size": "10.4 GB",
+      "uploadDate": "2026-11-06T14:22:11+00:00",
+      "url": "https://itsfileditchfiles.st/balpha43/19fca4fdbefbe84f81fb/Victoria-3-SteamRIP.com.rar",
       "uris": [
-        "https://gofile.io/d/pbaDLZ",
-        "https://fileditchfiles.me/file.php?f=/alpha5/0cdd53951f87c914267f/Victoria-3-SteamRIP.com.rar"
+        "https://itsfileditchfiles.st/balpha43/19fca4fdbefbe84f81fb/Victoria-3-SteamRIP.com.rar"
       ],
-      "version": "v1.13.6 (Build 23304651)",
+      "version": "v1.15.0 (Build 26453692)",
       "provider": "SteamRIP"
     },
     {
