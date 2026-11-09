@@ -1,7 +1,18 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-08T22:01:53+00:00",
+  "last_updated": "2026-11-09T22:19:50+00:00",
   "games": [
+    {
+      "title": "Casualties: Unknown Free Download",
+      "size": "400 MB",
+      "uploadDate": "2026-11-09T15:48:13+00:00",
+      "url": "https://megadb.net/d140b09cbe62b425",
+      "uris": [
+        "https://megadb.net/d140b09cbe62b425"
+      ],
+      "version": "Build 26525321",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Whirlight – No Time To Trip Free Download",
       "size": "10 GB",
@@ -2124,15 +2135,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Silver Pines Free Download (Build 25964535)",
-      "size": "4.06 GB",
-      "uploadDate": "2026-10-18T09:51:57+00:00",
-      "url": "https://bzzhr.to/hq6hakewgp58",
+      "title": "Silver Pines Free Download (Build 26489514)",
+      "size": "4.21 GB",
+      "uploadDate": "2026-11-09T15:00:20+00:00",
+      "url": "https://bzzhr.to/euawyushu6ca",
       "uris": [
-        "https://bzzhr.to/hq6hakewgp58",
-        "https://itsfileditchfiles.st/balpha33/ed67f5fe1e5265a1ca22/Silver-Pines-SteamRIP.com.rar"
+        "https://bzzhr.to/euawyushu6ca",
+        "https://itsfileditchfiles.st/balpha45/dd3e823d3bab5e603ee8/Silver-Pines-SteamRIP.com.rar"
       ],
-      "version": "Build 25964535",
+      "version": "Build 26489514",
       "provider": "SteamRIP"
     },
     {
@@ -3463,10 +3474,11 @@
     {
       "title": "Dressmaker Free Download (Build 26043449)",
       "size": "329 MB",
-      "uploadDate": "2026-10-21T15:45:58+00:00",
+      "uploadDate": "2026-11-09T06:32:19+00:00",
       "url": "https://megadb.net/4c9fc517ae2ba284",
       "uris": [
-        "https://megadb.net/4c9fc517ae2ba284"
+        "https://megadb.net/4c9fc517ae2ba284",
+        "https://itsfileditchfiles.st/balpha45/ee760b349045e0aece03/Dressmaker-SteamRIP.com.rar"
       ],
       "version": "Build 26043449",
       "provider": "SteamRIP"
@@ -23278,10 +23290,11 @@
     {
       "title": "Backpack Battles Free Download (v1.1.2)",
       "size": "303 MB",
-      "uploadDate": "2026-04-14T01:33:56+00:00",
+      "uploadDate": "2026-11-09T06:32:38+00:00",
       "url": "https://megadb.net/xt868qd6fl8d",
       "uris": [
-        "https://megadb.net/xt868qd6fl8d"
+        "https://megadb.net/xt868qd6fl8d",
+        "https://itsfileditchfiles.st/balpha45/e4ee3bf75f200d1d0282/Backpack-Battles-SteamRIP.com.rar"
       ],
       "version": "v1.1.2",
       "provider": "SteamRIP"
@@ -24188,15 +24201,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "RoadCraft Free Download (v6.0)",
-      "size": "66.1 GB",
-      "uploadDate": "2026-10-02T18:00:19+00:00",
-      "url": "https://bzzhr.to/mrn7nzje3fnk",
+      "title": "RoadCraft Free Download (v8.0)",
+      "size": "73 GB",
+      "uploadDate": "2026-11-09T17:36:16+00:00",
+      "url": "https://bzzhr.to/140y236kkydh",
       "uris": [
-        "https://bzzhr.to/mrn7nzje3fnk",
-        "https://fileditchfiles.st/alpha33/0ff1022a6b70a0a18f89/RoadCraft-SteamRIP.com.rar"
+        "https://bzzhr.to/140y236kkydh",
+        "https://itsfileditchfiles.st/balpha45/2f399c998cb494e3ed0d/RoadCraft-SteamRIP.com.rar"
       ],
-      "version": "v6.0",
+      "version": "v8.0",
       "provider": "SteamRIP"
     },
     {
