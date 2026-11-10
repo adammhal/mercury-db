@@ -1,7 +1,31 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-09T22:19:50+00:00",
+  "last_updated": "2026-11-10T19:43:23+00:00",
   "games": [
+    {
+      "title": "DREADMOOR Free Download (v0.4.39)",
+      "size": "5.8 GB",
+      "uploadDate": "2026-11-10T14:04:18+00:00",
+      "url": "https://bzzhr.to/gg0mx2lmdg8p",
+      "uris": [
+        "https://bzzhr.to/gg0mx2lmdg8p",
+        "https://itsfileditchfiles.st/balpha42/1722b872fc6528d9f118/Dispatch-SteamRIP.com.rar"
+      ],
+      "version": "v0.4.39",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Warhammer Survivors Free Download",
+      "size": "470 MB",
+      "uploadDate": "2026-11-10T13:39:11+00:00",
+      "url": "https://itsfileditchfiles.st/alpha42/c04986f78b661e19d65a/Warhammer-Survivors-SteamRIP.com.rar",
+      "uris": [
+        "https://itsfileditchfiles.st/alpha42/c04986f78b661e19d65a/Warhammer-Survivors-SteamRIP.com.rar",
+        "https://megadb.net/e91e9ed245b436b6"
+      ],
+      "version": "Build 26544303",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Casualties: Unknown Free Download",
       "size": "400 MB",
@@ -426,7 +450,7 @@
     {
       "title": "The Jackbox Party Pack 12 Free Download",
       "size": "1.07 GB",
-      "uploadDate": "2026-10-30T17:48:12+00:00",
+      "uploadDate": "2026-11-10T16:14:55+00:00",
       "url": "https://megadb.net/26c54ed5ce41c561",
       "uris": [
         "https://megadb.net/26c54ed5ce41c561"
@@ -18840,7 +18864,7 @@
     {
       "title": "The Jackbox Party Pack 11 Free Download (Build 20790248)",
       "size": "2.1 GB",
-      "uploadDate": "2026-04-09T17:20:16+00:00",
+      "uploadDate": "2026-11-10T16:15:06+00:00",
       "url": "https://megadb.net/ttvj13uymkoi",
       "uris": [
         "https://megadb.net/ttvj13uymkoi"
@@ -34266,7 +34290,7 @@
     {
       "title": "The Jackbox Party Pack 6 Free Download (v7666884 + Co-op)",
       "size": "2.1 GB",
-      "uploadDate": "2025-10-02T09:05:22+00:00",
+      "uploadDate": "2026-11-10T16:15:27+00:00",
       "url": "https://megadb.net/14bl0c1wme06",
       "uris": [
         "https://megadb.net/14bl0c1wme06",
@@ -34278,7 +34302,7 @@
     {
       "title": "The Jackbox Party Pack 2 Free Download (Build 10563106)",
       "size": "667 MB",
-      "uploadDate": "2024-03-10T09:21:08+00:00",
+      "uploadDate": "2026-11-10T16:15:38+00:00",
       "url": "https://megadb.net/weucl9fmdyms",
       "uris": [
         "https://megadb.net/weucl9fmdyms"
@@ -34289,7 +34313,7 @@
     {
       "title": "The Jackbox Party Pack Free Download (Build 7667348)",
       "size": "1.2 GB",
-      "uploadDate": "2025-10-02T09:06:00+00:00",
+      "uploadDate": "2026-11-10T16:15:53+00:00",
       "url": "https://megadb.net/pp7mbn47xyhm",
       "uris": [
         "https://megadb.net/pp7mbn47xyhm",
@@ -36457,7 +36481,7 @@
     {
       "title": "The Jackbox Party Pack 10 Free Download (Build 393 + Co-op)",
       "size": "2.2 GB",
-      "uploadDate": "2025-10-02T09:07:10+00:00",
+      "uploadDate": "2026-11-10T16:16:06+00:00",
       "url": "https://megadb.net/tepu426si9bk",
       "uris": [
         "https://megadb.net/tepu426si9bk",
@@ -42281,7 +42305,7 @@
     {
       "title": "The Jackbox Party Pack 3 Free Download (v7667193)",
       "size": "1.4 GB",
-      "uploadDate": "2025-10-02T09:06:23+00:00",
+      "uploadDate": "2026-11-10T16:19:38+00:00",
       "url": "https://megadb.net/n6b4qmsrraa4",
       "uris": [
         "https://megadb.net/n6b4qmsrraa4",
@@ -43684,7 +43708,7 @@
     {
       "title": "The Jackbox Party Pack 9 Free Download (v445 + Multiplayer)",
       "size": "4.8 GB",
-      "uploadDate": "2025-10-02T09:12:46+00:00",
+      "uploadDate": "2026-11-10T16:16:34+00:00",
       "url": "https://megadb.net/3qvov7x1w9ye",
       "uris": [
         "https://megadb.net/3qvov7x1w9ye",
@@ -43902,7 +43926,7 @@
     {
       "title": "The Jackbox Party Pack 4 Free Download",
       "size": "1 GB",
-      "uploadDate": "2025-10-02T09:13:10+00:00",
+      "uploadDate": "2026-11-10T16:17:02+00:00",
       "url": "https://megadb.net/emwvqo6sx7d1",
       "uris": [
         "https://megadb.net/emwvqo6sx7d1",
@@ -44816,7 +44840,7 @@
     {
       "title": "The Jackbox Party Pack 7 Free Download",
       "size": "1.5 GB",
-      "uploadDate": "2025-10-02T09:04:53+00:00",
+      "uploadDate": "2026-11-10T16:17:13+00:00",
       "url": "https://megadb.net/jhdj2cpydtno",
       "uris": [
         "https://megadb.net/jhdj2cpydtno",
@@ -50735,7 +50759,7 @@
     {
       "title": "The Jackbox Party Pack 5 Free Download",
       "size": "2.2 GB",
-      "uploadDate": "2025-01-21T08:11:27+00:00",
+      "uploadDate": "2026-11-10T16:17:25+00:00",
       "url": "https://megadb.net/8dints91vogf",
       "uris": [
         "https://megadb.net/8dints91vogf",
@@ -52499,7 +52523,7 @@
     {
       "title": "The Jackbox Party Pack 8 Free Download (v15.11.2021)",
       "size": "1.4 GB",
-      "uploadDate": "2025-10-02T09:13:45+00:00",
+      "uploadDate": "2026-11-10T16:17:40+00:00",
       "url": "https://megadb.net/fnemb1v5xxir",
       "uris": [
         "https://megadb.net/fnemb1v5xxir",
@@ -57468,16 +57492,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "The Sims 4 Free Download (v1.126.78.1020)",
-      "size": "77.1 GB",
-      "uploadDate": "2026-08-19T17:24:02+00:00",
-      "url": "https://bzzhr.to/k0hj9y5e4xul",
+      "title": "The Sims 4 Free Download (v1.129.39.1030)",
+      "size": "77.2 GB",
+      "uploadDate": "2026-11-10T13:13:10+00:00",
+      "url": "https://bzzhr.to/nx1hxdiexo7p",
       "uris": [
-        "https://bzzhr.to/k0hj9y5e4xul",
-        "https://gofile.io/d/PJeEEasR",
-        "https://fileditchfiles.st/balpha5/ec9dae65cbf50bfa65d7/The-Sims-4-SteamRIP.com.rar"
+        "https://bzzhr.to/nx1hxdiexo7p",
+        "https://itsfileditchfiles.st/balpha45/41e0b924e7f097898318/Da-Sims4-SteamRIP.com.rar"
       ],
-      "version": "v1.126.78.1020",
+      "version": "v1.129.39.1030",
       "provider": "SteamRIP"
     },
     {
@@ -58303,15 +58326,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Phasmophobia Free Download (Build 25327237 + Co-op)",
-      "size": "17.9 GB",
-      "uploadDate": "2026-09-28T19:42:30+00:00",
-      "url": "https://gofile.io/d/Jd8CkNAI",
+      "title": "Phasmophobia Free Download (v0.19.1.0 + Co-op)",
+      "size": "16.6 GB",
+      "uploadDate": "2026-11-10T18:43:39+00:00",
+      "url": "https://bzzhr.to/7ykwwlpu0m7c",
       "uris": [
-        "https://gofile.io/d/Jd8CkNAI",
-        "https://bzzhr.to/qi8iu30ypgjz"
+        "https://bzzhr.to/7ykwwlpu0m7c",
+        "https://itsfileditchfiles.st/alpha42/878f12cf4bed0cb5f521/Phasmophobia-SteamRIP.com.rar"
       ],
-      "version": "Build 25327237",
+      "version": "v0.19.1.0 (Build 25811160)",
       "provider": "SteamRIP"
     },
     {
