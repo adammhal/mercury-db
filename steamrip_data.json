@@ -1,15 +1,15 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-10T19:43:23+00:00",
+  "last_updated": "2026-11-11T06:10:16+00:00",
   "games": [
     {
       "title": "DREADMOOR Free Download (v0.4.39)",
       "size": "5.8 GB",
-      "uploadDate": "2026-11-10T14:04:18+00:00",
+      "uploadDate": "2026-11-11T04:02:46+00:00",
       "url": "https://bzzhr.to/gg0mx2lmdg8p",
       "uris": [
         "https://bzzhr.to/gg0mx2lmdg8p",
-        "https://itsfileditchfiles.st/balpha42/1722b872fc6528d9f118/Dispatch-SteamRIP.com.rar"
+        "https://itsfileditchfiles.st/alpha42/27a4324cacfe3df84b4f/DREADMOOR-SteamRIP.com.rar"
       ],
       "version": "v0.4.39",
       "provider": "SteamRIP"
@@ -1021,15 +1021,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "We Were Here Tomorrow Free Download (v1.1.2 + Co-op)",
-      "size": "8.2 GB",
-      "uploadDate": "2026-10-29T13:35:36+00:00",
-      "url": "https://bzzhr.to/ypw58mt88qlt",
+      "title": "We Were Here Tomorrow Free Download (v1.2.0 + Co-op)",
+      "size": "8.3 GB",
+      "uploadDate": "2026-11-10T20:14:07+00:00",
+      "url": "https://bzzhr.to/e61j1z834tes",
       "uris": [
-        "https://bzzhr.to/ypw58mt88qlt",
-        "https://itsfileditchfiles.st/balpha39/86ecf8896b58ef96a35f/We-Were-Here-Tomorrow-SteamRIP.com.rar"
+        "https://bzzhr.to/e61j1z834tes",
+        "https://itsfileditchfiles.st/alpha42/3cee551b0cc723b1b3d7/We-Were-Here-Tomorrow-SteamRIP.com.rar"
       ],
-      "version": "v1.1.2",
+      "version": "v1.2.0",
       "provider": "SteamRIP"
     },
     {
@@ -12240,15 +12240,15 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Fatekeeper Free Download",
-      "size": "37.4 GB",
-      "uploadDate": "2026-06-02T23:57:42+00:00",
-      "url": "https://bzzhr.to/bcyw3ro0qw3k",
+      "title": "Fatekeeper Free Download (v0.1.4.1)",
+      "size": "38.1 GB",
+      "uploadDate": "2026-11-10T20:09:21+00:00",
+      "url": "https://bzzhr.to/bfhilkq75xy3",
       "uris": [
-        "https://bzzhr.to/bcyw3ro0qw3k",
-        "https://gofile.io/d/ssNY4k"
+        "https://bzzhr.to/bfhilkq75xy3",
+        "https://itsfileditchfiles.st/alpha42/d03f4e1b7f2b6599d2b3/Fatekeeper-SteamRIP.com.rar"
       ],
-      "version": "Build 23529551",
+      "version": "v0.1.4.1",
       "provider": "SteamRIP"
     },
     {
@@ -13159,30 +13159,6 @@
         "https://fileditchfiles.me/file.php?f=/alpha3/de37a67cd7171abcf4d1/Beyond-Sandbox-SteamRIP.com.rar"
       ],
       "version": "Build 22970171",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Plants vs. Zombies Garden Warfare 2: Deluxe Edition Free Download (v1.0.12.0 + Multiplayer)",
-      "size": "20.4 GB",
-      "uploadDate": "2026-05-01T01:33:05+00:00",
-      "url": "https://gofile.io/d/JKSNA9",
-      "uris": [
-        "https://gofile.io/d/JKSNA9",
-        "https://fileditchfiles.me/file.php?f=/alpha3/6bb1beb42b48cf9b72ca/Plants-vs-Zombies-GW2-DE-SteamRIP.com.rar"
-      ],
-      "version": "v1.0.12.0",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Plants vs. Zombies: Garden Warfare Free Download (v1.0.3.0 + Multiplayer)",
-      "size": "6.6 GB",
-      "uploadDate": "2026-05-01T01:32:30+00:00",
-      "url": "https://gofile.io/d/IfqGLA",
-      "uris": [
-        "https://gofile.io/d/IfqGLA",
-        "https://fileditchfiles.me/file.php?f=/alpha3/faac64451aa8097f448a/Plants-vs-Zombies-GW-SteamRIP.com.rar"
-      ],
-      "version": "v1.0.3.0",
       "provider": "SteamRIP"
     },
     {
