@@ -1,7 +1,29 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-14T22:22:00+00:00",
+  "last_updated": "2026-11-15T06:24:02+00:00",
   "games": [
+    {
+      "title": "Aviassembly Free Download (Build 26619158)",
+      "size": "141 MB",
+      "uploadDate": "2026-11-15T02:45:42+00:00",
+      "url": "https://megadb.net/68e46cd63392aaae",
+      "uris": [
+        "https://megadb.net/68e46cd63392aaae"
+      ],
+      "version": "Build 26619158",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Slotbound Free Download",
+      "size": "181 MB",
+      "uploadDate": "2026-11-14T22:54:44+00:00",
+      "url": "https://megadb.net/93fe89486ce774b3",
+      "uris": [
+        "https://megadb.net/93fe89486ce774b3"
+      ],
+      "version": "Build 26666405",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Trakonius Free Download",
       "size": "4.3 GB",
@@ -347,10 +369,11 @@
     {
       "title": "Casualties: Unknown Free Download",
       "size": "400 MB",
-      "uploadDate": "2026-11-09T15:48:13+00:00",
+      "uploadDate": "2026-11-14T22:20:54+00:00",
       "url": "https://megadb.net/d140b09cbe62b425",
       "uris": [
-        "https://megadb.net/d140b09cbe62b425"
+        "https://megadb.net/d140b09cbe62b425",
+        "https://itsfileditchfiles.st/balpha48/ef6360a5b7c66bdeeb1d/Casualties-Unknown-SteamRIP.com.rar"
       ],
       "version": "Build 26525321",
       "provider": "SteamRIP"
@@ -528,10 +551,11 @@
     {
       "title": "Potato Please Free Download (v1.0.2)",
       "size": "917 MB",
-      "uploadDate": "2026-11-05T16:15:39+00:00",
+      "uploadDate": "2026-11-14T23:41:49+00:00",
       "url": "https://megadb.net/49f6e41d8259223c",
       "uris": [
-        "https://megadb.net/49f6e41d8259223c"
+        "https://megadb.net/49f6e41d8259223c",
+        "https://itsfileditchfiles.st/balpha48/3fc98ce1c01b1dfe1637/Potato-Please-SteamRIP.com.rar"
       ],
       "version": "Build 26450088",
       "provider": "SteamRIP"
@@ -708,10 +732,11 @@
     {
       "title": "Lacey’s Flash Games Free Download",
       "size": "854.5 MB",
-      "uploadDate": "2026-11-01T07:43:52+00:00",
+      "uploadDate": "2026-11-14T23:42:09+00:00",
       "url": "https://bzzhr.to/lq98xg3m6gts",
       "uris": [
-        "https://bzzhr.to/lq98xg3m6gts"
+        "https://bzzhr.to/lq98xg3m6gts",
+        "https://itsfileditchfiles.st/balpha48/c95b088faa470c3a1b48/Lacey%27s.Flash.Games-SteamRIP.com.rar"
       ],
       "version": "Build 26355347",
       "provider": "SteamRIP"
@@ -18200,15 +18225,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "MARVEL Cosmic Invasion Free Download (v1.0.0.13170)",
-      "size": "501 MB",
-      "uploadDate": "2026-07-11T18:11:18+00:00",
-      "url": "https://gofile.io/d/BwKoOa",
+      "title": "MARVEL Cosmic Invasion Free Download (v1.0.0.14793)",
+      "size": "606 MB",
+      "uploadDate": "2026-11-15T03:02:30+00:00",
+      "url": "https://megadb.net/83630d4b0a8b2e28",
       "uris": [
-        "https://gofile.io/d/BwKoOa",
-        "https://megadb.net/34ds7hldylki"
+        "https://megadb.net/83630d4b0a8b2e28"
       ],
-      "version": "v1.0.0.13170",
+      "version": "v1.0.0.14793",
       "provider": "SteamRIP"
     },
     {
@@ -25453,18 +25477,6 @@
         "https://bzzhr.to/tzn6jdx4ru0p"
       ],
       "version": "Build 18042744",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Aviassembly Free Download (Build 18239332)",
-      "size": "146 MB",
-      "uploadDate": "2025-05-29T21:36:21+00:00",
-      "url": "https://gofile.io/d/kx3fjQ",
-      "uris": [
-        "https://gofile.io/d/kx3fjQ",
-        "https://megadb.net/5xg7iux4gk2e"
-      ],
-      "version": "Build 18239332",
       "provider": "SteamRIP"
     },
     {
@@ -36750,15 +36762,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Cities: Skylines II Free Download (v1.6.2f1)",
+      "title": "Cities: Skylines II Free Download (v1.6.4f1)",
       "size": "88.2 GB",
-      "uploadDate": "2026-09-21T06:31:02+00:00",
-      "url": "https://bzzhr.to/rns189wsjn4y",
+      "uploadDate": "2026-11-15T02:32:28+00:00",
+      "url": "https://bzzhr.to/8cga8353itvy",
       "uris": [
-        "https://bzzhr.to/rns189wsjn4y",
-        "https://fileditchfiles.st/balpha20/fe189226866ad2ec4dd7/Cities-Skylines-2-SteamRIP.com.rar"
+        "https://bzzhr.to/8cga8353itvy"
       ],
-      "version": "v1.6.2f1 (Build 25127643)",
+      "version": "v1.6.4f1 (Build 26404411)",
       "provider": "SteamRIP"
     },
     {
