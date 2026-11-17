@@ -1,7 +1,18 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-16T06:23:10+00:00",
+  "last_updated": "2026-11-17T20:53:28+00:00",
   "games": [
+    {
+      "title": "Melvor Idle 2: A RuneScape Adventure Free Download",
+      "size": "576 MB",
+      "uploadDate": "2026-11-17T17:43:10+00:00",
+      "url": "https://megadb.net/ac22c1abeb756968",
+      "uris": [
+        "https://megadb.net/ac22c1abeb756968"
+      ],
+      "version": "Build 26724394",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Dice Hoarder Free Download",
       "size": "2.2 GB",
