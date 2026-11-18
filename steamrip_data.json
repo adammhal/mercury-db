@@ -1,14 +1,15 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-17T20:53:28+00:00",
+  "last_updated": "2026-11-18T07:23:44+00:00",
   "games": [
     {
       "title": "Melvor Idle 2: A RuneScape Adventure Free Download",
       "size": "576 MB",
-      "uploadDate": "2026-11-17T17:43:10+00:00",
-      "url": "https://megadb.net/ac22c1abeb756968",
+      "uploadDate": "2026-11-17T23:42:35+00:00",
+      "url": "https://megadb.net/fa10f39fe7c166e6",
       "uris": [
-        "https://megadb.net/ac22c1abeb756968"
+        "https://megadb.net/fa10f39fe7c166e6",
+        "https://itsfileditchfiles.st/alpha44/50b512da74f461b4c8e3/Melvor-Idle-2-SteamRIP.com.rar"
       ],
       "version": "Build 26724394",
       "provider": "SteamRIP"
