@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-21T19:13:04+00:00",
+  "last_updated": "2026-11-22T06:43:19+00:00",
   "games": [
     {
       "title": "Safari-TV Free Download (Build 26728877 + Co-op)",
@@ -7502,19 +7502,6 @@
         "https://megadb.net/71ccfc5efbdc1a63"
       ],
       "version": "v1.0.6 (Build 25583279)",
-      "provider": "SteamRIP"
-    },
-    {
-      "title": "Crimson Desert Free Download (v1.14.00)",
-      "size": "90 GB",
-      "uploadDate": "2026-08-04T19:30:11+00:00",
-      "url": "https://bzzhr.to/w808u462j3hi",
-      "uris": [
-        "https://bzzhr.to/w808u462j3hi",
-        "https://gofile.io/d/Af2ixw",
-        "https://fileditchfiles.st/balpha1/044995b5eafda55f6ce3/Crimson-Desert-SteamRIP.com.rar"
-      ],
-      "version": "v1.14.00",
       "provider": "SteamRIP"
     },
     {
