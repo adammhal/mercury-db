@@ -1,7 +1,29 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-22T06:43:19+00:00",
+  "last_updated": "2026-11-23T07:31:40+00:00",
   "games": [
+    {
+      "title": "Dungeonbound Free Download (v1.0.15)",
+      "size": "282 MB",
+      "uploadDate": "2026-11-23T05:50:06+00:00",
+      "url": "https://megadb.net/8cacc44baff4acf2",
+      "uris": [
+        "https://megadb.net/8cacc44baff4acf2"
+      ],
+      "version": "v1.0.15",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "Zombies Aren’t Real Free Download (v0.43.1)",
+      "size": "302 MB",
+      "uploadDate": "2026-11-23T05:36:52+00:00",
+      "url": "https://megadb.net/eb27eb975a495b4d",
+      "uris": [
+        "https://megadb.net/eb27eb975a495b4d"
+      ],
+      "version": "Build 26692741",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Safari-TV Free Download (Build 26728877 + Co-op)",
       "size": "4.3 GB",
@@ -26616,14 +26638,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "R.E.P.O. Free Download (v0.5.1 + Co-op)",
-      "size": "1 GB",
-      "uploadDate": "2026-11-05T15:20:26+00:00",
-      "url": "https://itsfileditchfiles.st/alpha41/8f1dc0ea41e18aa0dc38/REPO-SteamRIP.com.rar",
+      "title": "R.E.P.O. Free Download (v0.5.2 + Co-op)",
+      "size": "972 MB",
+      "uploadDate": "2026-11-23T06:09:15+00:00",
+      "url": "https://bzzhr.to/0jcicc2gyqt4",
       "uris": [
-        "https://itsfileditchfiles.st/alpha41/8f1dc0ea41e18aa0dc38/REPO-SteamRIP.com.rar"
+        "https://bzzhr.to/0jcicc2gyqt4"
       ],
-      "version": "v0.5.1",
+      "version": "v0.5.2",
       "provider": "SteamRIP"
     },
     {
