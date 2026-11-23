@@ -1,7 +1,18 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-23T07:31:40+00:00",
+  "last_updated": "2026-11-23T23:51:44+00:00",
   "games": [
+    {
+      "title": "Phantom Blade Zero Free Download",
+      "size": "143 GB",
+      "uploadDate": "2026-11-23T08:08:40+00:00",
+      "url": "https://bzzhr.to/7y3dipshiscu",
+      "uris": [
+        "https://bzzhr.to/7y3dipshiscu"
+      ],
+      "version": "Build 26367565",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Dungeonbound Free Download (v1.0.15)",
       "size": "282 MB",
