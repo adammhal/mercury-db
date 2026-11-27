@@ -1,7 +1,29 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-25T21:40:34+00:00",
+  "last_updated": "2026-11-27T08:22:44+00:00",
   "games": [
+    {
+      "title": "Arctic Drive Free Download (v0.23.2)",
+      "size": "6.2 GB",
+      "uploadDate": "2026-11-27T01:11:06+00:00",
+      "url": "https://gofile.io/d/uhQIAHQ9",
+      "uris": [
+        "https://gofile.io/d/uhQIAHQ9"
+      ],
+      "version": "v0.23.2",
+      "provider": "SteamRIP"
+    },
+    {
+      "title": "No Asteroids Free Download (v1.0.7)",
+      "size": "537 MB",
+      "uploadDate": "2026-11-27T00:18:39+00:00",
+      "url": "https://megadb.net/e4b0fcb8c598087b",
+      "uris": [
+        "https://megadb.net/e4b0fcb8c598087b"
+      ],
+      "version": "v1.0.7",
+      "provider": "SteamRIP"
+    },
     {
       "title": "Phantom Blade Zero Free Download",
       "size": "143 GB",
@@ -16,14 +38,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Dungeonbound Free Download (v1.0.15)",
+      "title": "Dungeonbound Free Download (v1.0.19)",
       "size": "282 MB",
-      "uploadDate": "2026-11-23T05:50:06+00:00",
-      "url": "https://megadb.net/8cacc44baff4acf2",
+      "uploadDate": "2026-11-26T22:21:03+00:00",
+      "url": "https://megadb.net/2afe110bb9a566b6",
       "uris": [
-        "https://megadb.net/8cacc44baff4acf2"
+        "https://megadb.net/2afe110bb9a566b6"
       ],
-      "version": "v1.0.15",
+      "version": "v1.0.19",
       "provider": "SteamRIP"
     },
     {
@@ -26653,15 +26675,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "R.E.P.O. Free Download (v0.5.3 + Co-op)",
-      "size": "971 MB",
-      "uploadDate": "2026-11-24T18:09:23+00:00",
-      "url": "https://itsfileditchfiles.st/alpha45/41e85a95a2dfd0ea19e4/REPO-SteamRIP.com.rar",
+      "title": "R.E.P.O. Free Download (v0.5.4 + Co-op)",
+      "size": "972 MB",
+      "uploadDate": "2026-11-26T21:37:36+00:00",
+      "url": "https://gofile.io/d/GOBt9ChM",
       "uris": [
-        "https://itsfileditchfiles.st/alpha45/41e85a95a2dfd0ea19e4/REPO-SteamRIP.com.rar",
-        "https://gofile.io/d/IxIy15P4"
+        "https://gofile.io/d/GOBt9ChM"
       ],
-      "version": "v0.5.3",
+      "version": "v0.5.4",
       "provider": "SteamRIP"
     },
     {
@@ -29726,15 +29747,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Stellaris Ultimate Bundle Free Download (v4.5.1)",
-      "size": "18.4 GB",
-      "uploadDate": "2026-09-26T15:19:32+00:00",
-      "url": "https://gofile.io/d/csQgmhD3",
+      "title": "Stellaris Ultimate Bundle Free Download (v4.6.0)",
+      "size": "15.1 GB",
+      "uploadDate": "2026-11-26T21:59:01+00:00",
+      "url": "https://gofile.io/d/mRt09FB8",
       "uris": [
-        "https://gofile.io/d/csQgmhD3",
-        "https://ts.bzzhr.to/d/jslmi1ohpe0w"
+        "https://gofile.io/d/mRt09FB8"
       ],
-      "version": "v4.5.1",
+      "version": "v4.6.0",
       "provider": "SteamRIP"
     },
     {
@@ -35916,15 +35936,14 @@
       "provider": "SteamRIP"
     },
     {
-      "title": "Company of Heroes 3 Free Download (v2.5.0)",
-      "size": "29 GB",
-      "uploadDate": "2026-07-30T18:51:29+00:00",
-      "url": "https://gofile.io/d/FCYsbB",
+      "title": "Company of Heroes 3 Free Download (v3.0.3)",
+      "size": "30.6 GB",
+      "uploadDate": "2026-11-27T04:21:27+00:00",
+      "url": "https://gofile.io/d/xVaelj8n",
       "uris": [
-        "https://gofile.io/d/FCYsbB",
-        "https://bzzhr.to/y7h2c3yltsuc"
+        "https://gofile.io/d/xVaelj8n"
       ],
-      "version": "Build 24466545",
+      "version": "v3.0.3",
       "provider": "SteamRIP"
     },
     {
