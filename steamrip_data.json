@@ -1,6 +1,6 @@
 {
   "name": "SteamRIP Index",
-  "last_updated": "2026-11-27T08:22:44+00:00",
+  "last_updated": "2026-11-27T21:13:51+00:00",
   "games": [
     {
       "title": "Arctic Drive Free Download (v0.23.2)",
@@ -16,10 +16,11 @@
     {
       "title": "No Asteroids Free Download (v1.0.7)",
       "size": "537 MB",
-      "uploadDate": "2026-11-27T00:18:39+00:00",
+      "uploadDate": "2026-11-27T15:41:12+00:00",
       "url": "https://megadb.net/e4b0fcb8c598087b",
       "uris": [
-        "https://megadb.net/e4b0fcb8c598087b"
+        "https://megadb.net/e4b0fcb8c598087b",
+        "https://bzzhr.to/mgq6bq5db6b0"
       ],
       "version": "v1.0.7",
       "provider": "SteamRIP"
